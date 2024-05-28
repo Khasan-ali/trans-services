@@ -1,0 +1,132 @@
+.control {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 0px 20px 48px;
+}
+
+.control_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.control_list {
+       display: grid;
+       grid-template-columns: auto auto;
+       column-gap: 22px;
+       row-gap: 32px;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+       max-width: 912px;
+       width: 100%;
+}
+
+.control_item {
+       padding: 24px;
+       background-color: #F3F3F3;
+       border-radius: 8px;
+       cursor: pointer;
+}
+
+.document_item_text {
+       margin: 0;
+       margin-bottom: 30px;
+       display: -webkit-box;
+       max-width: 376px;
+       -webkit-line-clamp: 3;
+       -webkit-box-orient: vertical;
+       overflow: hidden;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+.control_item_link {
+       padding: 12px 16px;
+       text-decoration: none;
+       border-radius: 8px;
+       background-color: #D4EBFF;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+       color: #0065C1;
+}
+
+.control_item_icon {
+       margin-right: 8px;
+}
+
+.control_info {
+       margin: 48px 0;
+       padding: 24px 24px 36px;
+       background-color: #F3F3F3;
+       border-radius: 16px;
+       max-width: 912px;
+       width: 100%;
+}
+
+.control_info_section {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+
+.control_info_section:not(last-child) {
+       margin-bottom: 16px;
+}
+
+.control_info_left_text {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+       color: #373737;
+}
+
+.control_info_right_text {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 600;
+       font-size: 16px;
+       color: #000000;
+}
+
+@media only screen and (max-width: 650px) {
+       .control_list {
+              display: grid;
+              grid-template-columns: auto;
+       }
+
+       .control_info_right_text {
+              margin-left: 20px;
+       }
+}
+
+@media only screen and (max-width: 350px) {
+       
+       .control_item {
+              padding: 24px 12px;
+       }
+
+       .control_info_section {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+       }
+
+       .control_info_right_text {
+              margin-top: 8px;
+              margin-left: 0px;
+       }
+
+       .document_item_text {
+              font-family: 'Inter', sans-serif;
+              font-weight: 400;
+              font-size: 14px;
+       }
+       
+}
+

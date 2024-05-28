@@ -1,0 +1,31 @@
+.site_busroutes {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 24px 20px;
+}
+
+.busroutes_table {
+       padding: 24px, 36px;
+       border-radius: 16px;
+       background-color: #F3F3F3;
+}
+
+.busroutes_thead_tr th {
+       padding: 16px;
+       text-align: start;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+}
+
+.busroutes_tbody_tr:nth-child(odd) {
+       background-color: #F9F9F9;
+}
+
+.busroutes_tbody_tr td {
+       padding: 16px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+}

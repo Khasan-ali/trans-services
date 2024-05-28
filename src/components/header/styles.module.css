@@ -1,0 +1,36 @@
+.header_site {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 16px 20px;
+}
+
+.header_section {
+       display: flex;
+       align-items: center;
+}
+
+.header_select {
+       padding: 8px 10px;
+       border: none;
+       outline: none;
+       background-color: #F3F3F3;
+       border-radius: 8px;
+}
+
+.header_btn {
+       display: none;
+       margin-left: 20px;
+       background: none;
+       border: none;
+}
+
+
+@media only screen and (max-width: 1070px) {
+       .header_btn {
+              display: flex;
+       }       
+}

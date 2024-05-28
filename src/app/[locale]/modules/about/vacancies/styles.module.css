@@ -1,0 +1,30 @@
+.vacancies {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 0 20px 400px;
+}
+
+.vacancies_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.vacancies_tablist {
+       display: grid;
+       gap: 20px;
+}
+
+.vacancies_tab {
+       padding: 15px 18px;
+       border-radius: 10px;
+       border: none;
+       cursor: pointer;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+       width: 100%;
+}
+

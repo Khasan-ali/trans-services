@@ -1,0 +1,34 @@
+.faq {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 0 20px 400px;
+}
+
+.faq_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.faq_accordion {
+       min-width: 1224px;
+       width: 100%;
+}
+
+.faq_btn {
+       padding: 15px 18px;
+       border: none;
+       border-radius: 8px;
+       cursor: pointer;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+}
+
+.faq_panel {
+       font-family: 'Mulish', sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+}

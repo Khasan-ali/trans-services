@@ -1,0 +1,105 @@
+.site_news_detail {
+       display: flex;
+       flex-direction: column;
+       max-width: 912px;
+       width: 100%;
+}
+
+.news_detail_heading {
+       margin: 0;
+       margin-bottom: 16px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.news_detail_section {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+
+.news_detail_left_sec {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       max-width: 200px;
+       width: 100%;
+}
+
+.news_detail_date_sec {
+       display: flex;
+       align-items: center;
+}
+
+.news_detail_date {
+       margin-left: 8px;
+       color: #909090;
+}
+
+.news_detail_eye_sec {
+       display: flex;
+       align-items: center;
+}
+
+.news_detail_eye_text {
+       margin: 0;
+       margin-left: 8px;
+       color: #909090;
+}
+
+.news_detail_right_sec {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       max-width: 120px;
+       width: 100%;
+}
+
+.news_detail_swiper {
+       width: 100%;
+}
+
+.news_detail_swiper_img {
+       width: 100%;
+       border-radius: 20px;
+}
+
+
+
+@media only screen and (max-width: 930px) {
+       .news_detail_swiper {
+              max-width: 600px;
+       }
+       
+       .news_detail_swiper_img {
+              max-width: 600px;
+       }
+}
+
+@media only screen and (max-width: 800px) {
+       .news_detail_swiper {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+       }
+       
+       .news_detail_swiper_img {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+       }
+}
+
+
+@media only screen and (max-width: 400px) {
+       .news_detail_section {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+       }
+
+       .news_detail_left_sec {
+              margin-bottom: 16px;
+       }
+}

@@ -1,0 +1,809 @@
+
+{
+       "Landing-page-Interactive-Service": {
+              "title": "Interactive services",
+              "first-item-heading": "Book a bus",
+              "second-item-heading": "Online routing",
+              "three-item-heading": "Sale of transport card"
+       },
+
+       "Landing-page-Datas": {
+              "title": "Information",
+              "first-item-title": "List of bus routes",
+              "second-item-title": "Transport cards",
+              "three-item-title": "Single transport card sales points",
+              "four-item-title": "Open data",
+              "five-item-title": "Fare",
+              "six-item-title": "Free fare"
+       },
+
+       "Landing-About-Us": {
+              "title": "OFFICIAL WEBSITE OF «TOSHSHAHARTRANSXIZMAT» JSC",
+              "title-btn": "More"
+       },
+
+
+       "About-Us-Structure": {
+              "title": "Structure"
+       },
+
+       "About-Us-Regulatory": {
+              "title": "Regulatory documents"
+       },
+       "About-Us-Legal": {
+              "title": "Legal documents that have lost their validity"
+       },
+       "About-Us-Vacancies": {
+              "title": "Vacancies"
+       },
+
+
+       "About-Us-Website": {
+              "title": "Website User Guide and Terms of Use"
+       },
+
+
+
+       "InnerTitte": {
+              "title": "About pages",
+              "btn-title": "Back"
+       },
+       "ServiceTitte": {
+              "title": "Service",
+              "btn-title": "Back"
+       },
+       "Hero": {
+              "title": "OFFICIAL WEBSITE OF «TOSHSHAHARTRANSXIZMAT» JSC",
+              "btn-title": "More"
+       },
+       "IndexPage": {
+              "title": "next-intl example",
+              "description": "Welcome to the Next.js internationalization (i18n) example"
+       },
+       "NotFoundPage": {
+              "title": "Page Node Found",
+              "description": "Oops! It seems like you have stumbled upon a page that does"
+       },
+       "Navigation": {
+              "home": "Home"
+       },
+
+
+       "Bus-Card-Sale": {
+              "title": "Sale of transport card",
+              "list-days": "day",
+              "list-soum": "soum"
+       },
+
+       "Bus-Layouts": {
+              "link-title-first": "Book a bus",
+              "link-title-second": "Online routing",
+              "link-title-three": "Sale of transport card"
+       },
+
+       "Bus-Online-Routes": {
+              "title": "Online routing",
+              "form-title": "Choose the direction that is convenient for you",
+              "form-first-select": "From where",
+              "form-second-select": "To where",
+              "form-btn-title": "Make a route"
+       },
+
+       "Bus-Buying-Bus": {
+              "title": "Book a bus",
+              "numbers-title": "Number of people the bus can accommodate",
+              "price-title": "One hour service fee amount (in sums)"
+       },
+
+
+       "Landing-Useful-Links": {
+              "title": "Useful links"
+       },
+
+       "Landing-Statistics": {
+              "title": "Statistics",
+              "text-thousand": "K+",
+              "text-million": "M+"
+       },
+
+       "Datas-Fare": {
+              "title": "Fare"
+       },
+
+       "Single-Transport-Cards": {
+              "title": "Single transport card sales points"
+       },
+
+       "Bus-Routes": {
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Directions of enterprises",
+              "direction": "Direction",
+              "route-name": "Route name",
+              "move-time": "Move time",
+              "route-duration": "Route duration",
+              "route-length": "Route length",
+              "markami-bus": "Markami bus",
+              "park": "Park"
+       },
+
+       "Landing-Public-Trans": {
+              "title": "History of public transport"
+       },
+
+       "Public-Trans_Id": {
+              "title": "History of models",
+              "btn-title": "More"
+       },
+
+       "Trans-Detail": {
+              "open-year": "Release year",
+              "people-size": "A person can fit",
+              "chairs": "Number of seats",
+              "description": "Number of directions"
+       },
+
+       "Landing-News": {
+              "title": "News",
+              "link-title": "All news"
+       },
+
+       "Press-center-Layout": {
+              "first-link": "News",
+              "second-link": "Media event",
+              "three-link": "Photo gallery",
+              "four-link": "Video Gallery",
+              "five-link": "Contact the press service"
+       },
+
+       "Contacts-Layout": {
+              "first-link": "Office",
+              "second-link": "International cooperation",
+              "three-link": "Hotline",
+              "four-link": "Feedback",
+              "five-link": "Citizen appeal",
+              "six-link": "Citizen complaints statistics"
+       },
+
+       "Press-Center-News": {
+              "title": "News"
+       },
+
+       "News-Media": {
+              "title": "Media event"
+       },
+
+       "News-Media-Detail": {
+              "title": "Photo gallery"
+       },
+
+       "New-Video-Page": {
+              "title": "Video Gallery",
+              "route1": "Home",
+              "route2": "Press center",
+              "route3": "Video Gallery"
+       },
+
+       "New-Press-Service": {
+              "title": "Contact the press service",
+              "route1": "Home",
+              "route2": "Press center",
+              "route3": "Contact the press service",
+              "email-title": "Email address",
+              "phone-title": "Telephone"
+       },
+
+       "Information-Form": {
+              "form-title": "Feedback",
+              "input-first": "Full name",
+              "input-second": "Telephone",
+              "input-three": "Brief information",
+              "form-btn": "Send"
+       },
+
+       "Compleans-Control": {
+              "title": "Compliance control",
+              "route1": "Home",
+              "route2": "Compliance control"
+       },
+
+       "Contacts-Feedback": {
+              "title": "Feedback",
+              "route1": "Home",
+              "route2": "Contacts",
+              "route3": "Feedback"
+       },
+
+       "Contact-Office": {
+              "title": "Office",
+              "route1": "Home",
+              "route2": "Contacts",
+              "route3": "Office",
+              "phone": "Telephone",
+              "first-email": "Email address",
+              "second-email": "Exat address",
+              "address": "Address",
+              "work-time": "Working time",
+              "networking": "Social networks"
+       },
+       
+
+       "Contact-Cooperation": {
+              "title": "International cooperation",
+              "route1": "Home",
+              "route2": "Contacts",
+              "route3": "International cooperation",
+              "phone": "Telephone",
+              "email": "Email address",    
+              "address": "Address",
+              "work-time": "Working time",
+              "networking": "Social networks"
+       },
+       
+
+       "Contact-Hotline": {
+              "title": "Hotline",
+              "route1": "Home",
+              "route2": "Contacts",
+              "route3": "Hotline",
+              "text": "Working procedure: appeals, complaints and proposals related to all types of urban passenger transportation in Tashkent are received and recorded from Monday to Friday, from 8:00 to 17:00.",
+              "details": "Details",
+              "link-title": "Internal documents of the society",
+              "phone-text": "Hotline",
+              "phone-text-second": "Short number"
+       },
+
+       "Contact-Appeal": {
+              "title": "Citizen appeal",
+              "route1": "Home",
+              "route2": "Contacts",
+              "route3": "Citizen appeal",
+              "btn-first": "Send a request",
+              "btn-second": "Check application status",
+              "name-placeholder": "Full Name",
+              "phone-placeholder": "Telephone",
+              "email-placeholder": "Email address",
+              "address-placeholder": "Address",
+              "text-placeholder": "Brief information",
+              "upload-text": "File upload",
+              "form-btn": "Send"
+       },
+
+       "Controls-Application": {
+              "route1": "Home",
+              "route2": "Check application status",
+              "btn-first": "Send a request",
+              "btn-second": "Check application status",
+              "number-placeholder": "Full Name",
+              "verification-placeholder": "Telephone",
+              "form-btn": "Send"
+       },
+
+       "Corparate-Management-Layout": {
+              "first-link": "Supervisory board",
+              "second-link": "Executive body",
+              "three-link": "Inspection commission",
+              "four-link": "Internal audit service",
+              "five-link": "Remuneration of Supervisory Board members"
+       },
+
+       "Corparate-Management-Supervisory": {
+              "title": "Supervisory board",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Management control body",
+              "route4": "Supervisory board"
+       },
+
+
+       "Corparate-Management-Executive": {
+              "title": "Executive body",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Management control body",
+              "route4": "Executive body"
+       },
+
+       "Corparate-Management-Inspection": {
+              "title": "Inspection commission",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Management control body",
+              "route4": "Inspection commission"
+       },
+
+       "Corparate-Management-Audit-Service": {
+              "title": "Internal audit service",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Management control body",
+              "route4": "Internal audit service"
+       },
+
+       "Corparate-Management-Board-members": {
+              "title": "Remuneration of Supervisory Board members",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Management control body",
+              "route4": "Remuneration of Supervisory Board members",
+              "download-title": "Upload file"
+       },
+
+
+       "Corparate-Disclosure-Layout": {
+              "first-link": "Issuance of securities",
+              "second-link": "Important facts",
+              "three-link": "National accounting standards",
+              "four-link": "International standards of financial reporting",
+              "five-link": "Audit summary",
+              "six-link": "Issuer reports"
+       },
+
+       "Corparate-Disclosure-Securities": {
+              "title": "Issuance of securities",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "Issuance of securities",
+              "link-text": "Upload file"
+       },
+
+       "Corparate-Disclosure-Facts": {
+              "title": "Important facts",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "Important facts",
+              "link-text": "Download"
+       },
+
+       "Corparate-Disclosure-National-Accounting": {
+              "title": "National accounting standards",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "National accounting standards",
+              "link-text": "Download"
+       },
+
+       "Corparate-Disclosure-Financial-Reporting": {
+              "title": "International standards of financial reporting",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "International standards of financial reporting",
+              "link-text": "Download"
+       },
+
+       "Corparate-Disclosure-Audit-Summary": {
+              "title": "Audit summary",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "Audit summary",
+              "link-text": "Download"
+       },
+
+       "Corparate-Disclosure-Issuer-Reports": {
+              "title": "Issuer reports",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Disclosure of information",
+              "route4": "Issuer reports",
+              "link-text": "Download"
+       },
+
+
+       "Corparate-Layout": {
+              "first-link": "Internal documents of the society",
+              "second-link": "CBT assessment results",
+              "three-link": "Key performance indicators",
+              "four-link": "Business plan"
+       },
+
+       "Corparate-Internal-Documents": {
+              "title": "Internal documents of the society",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Internal documents of the society",
+              "link-text": "Download"
+       },
+
+       "Corparate-Assesment": {
+              "title": "CBT assessment results",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "CBT assessment results",
+              "link-text": "Download"
+       },
+
+       "Corparate-Performance": {
+              "title": "Key performance indicators",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Key performance indicators",
+              "link-text": "Download"
+       },
+
+
+       "Corparate-Bussiness-Plan": {
+              "title": "Business plan",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Business plan",
+              "link-text": "Download"
+       },
+
+       "Corparate-Shareholder-Layout": {
+              "first-link": "Charter fund",
+              "second-link": "Affiliates",
+              "three-link": "List of shareholders",
+              "four-link": "To non-resident shareholders",
+              "five-link": "Dividends"
+       },
+
+       "Corparate-shareholders-Fund": {
+              "title": "Charter fund",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "To shareholders",
+              "route4": "Charter fund",
+              "link-text": "Upload file"     
+       },
+
+       "Corparate-shareholders-Affili": {
+              "title": "Affiliates",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "To shareholders",
+              "route4": "Affiliates",
+              "link-text": "Download"     
+       },
+
+       "Corparate-shareholders-holder": {
+              "title": "List of shareholders",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "To shareholders",
+              "route4": "List of shareholders",
+              "link-text": "'Order of the Depot for the transfer of securities' was signed by the Ministry of Finance and the Ministry of Transport. Starting from 11.11.2022, 100% of the share package of 'Toshshahartranskhizmat' JSC was transferred to the Ministry of Transport of the Republic of Uzbekistan."     
+       },
+
+       "Corparate-shareholders-Resident": {
+              "title": "To non-resident shareholders",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "To shareholders",
+              "route4": "To non-resident shareholders"  
+       },
+
+       "Corparate-shareholders-Dividend": {
+              "title": "Dividends",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "To shareholders",
+              "route4": "Dividends",
+              "link-text": "Download"     
+       },
+
+       "Corparate-Projects-Layout": {
+              "first-link": "Investment projects",
+              "second-link": "Tenders",
+              "three-link": "State purchases",
+              "four-link": "Public private partnership",
+              "five-link": "Events"
+       },
+
+       "Corparate-Projects-Investment": {
+              "title": "Investment projects",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Projects",
+              "route4": "Investment projects"  
+       },
+
+       "Corparate-Projects-Tenders": {
+              "title": "Tenders",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Projects",
+              "route4": "Tenders",
+              "link-text": "Download"
+       },
+
+
+       "Corparate-Projects-Purchaches": {
+              "title": "State purchases",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Projects",
+              "route4": "State purchases",
+              "link-text": "Upload file"     
+       },
+
+       "Corparate-Projects-Partnership": {
+              "title": "Public private partnership",
+              "route1": "Home",
+              "route2": "Corporate governance",
+              "route3": "Projects",
+              "route4": "Public private partnership",
+              "link-text": "Upload file"     
+       },
+
+       "Activity-Layout": {
+              "first-link": "Directions of enterprises",
+              "second-link": "Measures",
+              "three-link": "Reports",
+              "four-link": "Electronic government",
+              "five-link": "Cooperation",
+              "six-link": "Services"
+       },
+
+       "Activity-Direction": {
+              "title": "Directions of enterprises",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Directions of enterprises"
+       },
+
+       "Activity-Measures": {
+              "title": "Measures",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Measures",
+              "link-text": "Download"     
+       },
+
+       "Activity-Government": {
+              "title": "Electronic government",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Electronic government",
+              "link-text": "Download"     
+       },
+
+       "Activity-Reports": {
+              "title": "Reports",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Reports",
+              "link-text": "Upload file"     
+       },
+
+       "Activity-Cooperation": {
+              "title": "Cooperation",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Cooperation",
+              "phone-label": "Telephone",  
+              "internet-label": "Website",     
+              "mail-label": "Email address"  
+       },
+
+       "Activity-Service": {
+              "title": "Services",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Services",
+              "text-label": "Category"
+       },
+
+
+       "Activity-Policy-Layout": {
+              "first-link": "Youth news",
+              "second-link": "Normative documents on youth"
+       },
+
+       "Activity-Policy-News": {
+              "title": "Youth news",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Youth policy",
+              "route4": "Youth news"
+       },
+
+       "Activity-Policy-Documents": {
+              "title": "Normative documents on youth",
+              "route1": "Home",
+              "route2": "Activity",
+              "route3": "Youth policy",
+              "route4": "Normative documents on youth",
+              "link-text": "Download"     
+       },
+
+
+       "About-Layout": {
+              "link1": "About Us",
+              "link2": "Leadership",
+              "link3": "Structure",
+              "link4": "Department and services",
+              "link5": "Structural enterprises",
+              "link6": "Regulatory documents",
+              "link7": "Legal documents that have lost their validity",
+              "link8": "Vacancies",
+              "link9": "FAQ",
+              "link10": "Society - Digitization",
+              "link11": "Community trade union",
+              "link12": "Website User Guide and Terms of Use"
+       },
+
+       "About-Regulatory-Documents": {
+              "title": "Regulatory documents",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Regulatory documents",
+              "link-text": "Download"  
+       },
+
+       "About-Regulatory-Leadership": {
+              "title": "Leadership",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Leadership",
+              "position1": "Telephone",
+              "position2": "Fax",
+              "position3": "Email address",
+              "position4": "Reception days",
+              "btn1": "Biography",
+              "btn2": "Obligation"
+       },
+
+       "About-Us-About-us": {
+              "title": "About Us",
+              "route1": "Home",
+              "route2": "About Us",
+              "bus-heading": "History of models",
+              "link-title": "All models"
+       },
+
+       "About-Us-Department": {
+              "title": "Department and services",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Department and services",
+              "btn": "More",
+              "position1": "Telephone",
+              "position3": "Email address"
+       },
+
+       "About-Us-Community": {
+              "title": "Community trade union",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Community trade union",
+              "btn": "More",
+              "position1": "Telephone",
+              "position3": "Email address"
+       },
+
+       "About-Us-FAQ": {
+              "title": "FAQ",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "FAQ"
+       },
+       
+       "About-Us-Society": {
+              "title": "Society - Digitization",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Society - Digitization"
+       },
+
+       "About-Us-Structural-Enterprises": {
+              "title": "Structural enterprises",
+              "text": "Information about state-owned enterprises that are part of the «Toshshahartransxizmat» JSC",
+              "route1": "Home",
+              "route2": "About Us",
+              "route3": "Structural enterprises",
+              "label1": "Leader",
+              "label2": "Address",
+              "label3": "Telephone"
+       },
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+       "Footers": {
+              "top-center": "Republic of Uzbekistan, 100000, Tashkent, 1st narrow street Amir Temur , house 6",
+              "top-right": "Subscribe to our news",
+              "center-left-top": "It is imperative to link to the website when information from the Website is published",
+              "center-left-bottom": "All materials on this site are available under the following license: Creative Commons Attribution 4.0 International",
+              "center-right": "If you find an error in the text, select it and press “Ctrl + Enter” to notify the administration",
+              "bottom-right": "Developed by"
+       },
+       "Header": {
+              "first-title": "About Us",
+              "first-section-one": "About Us",
+              "first-section-one-path": "/en/modules/about/aboutus",
+              "first-section-two": "Leadership",
+              "first-section-three": "Structure",
+              "first-section-five": "Department and services",
+              "first-section-six": "Structural enterprises",
+              "first-section-seven": "Regulatory documents",
+              "first-section-eight-eight": "Legal documents that have lost their validity",
+              "first-section-eight": "Vacancies",
+              "first-section-nine": "FAQ",
+              "first-section-ten": "Society - Digitization",
+              "first-section-eleven": "Community trade union",
+              "first-section-eleven-eleven": "Website User Guide and Terms of Use",
+
+              "second-title": "Activity",
+              "second-section-one": "Directions of enterprises",
+              "second-section-two": "Measures",
+              "second-section-three": "Reports",
+              "second-section-four": "Electronic government",
+              "second-section-five": "Cooperation",
+              "second-section-six": "Services",
+              "second-section-seven-title": "Youth policy",
+              "second-section-seven-one-text": "Youth news",
+              "second-section-seven-two-text": "Normative documents on youth",
+              
+              "three-title": "Corporate governance",
+              "three-section-one-title": "Management control body",
+              "three-section-one-text-one": "Supervisory board",
+              "three-section-one-text-two": "Executive body",
+              "three-section-one-text-three": "Inspection commission",
+              "three-section-one-text-four": "Internal audit service",
+              "three-section-one-text-five": "Remuneration of Supervisory Board members",
+
+              "three-section-two-title": "Disclosure of information",
+              "three-section-two-text-one": "Issuance of securities",
+              "three-section-two-text-two": "Important facts",
+              "three-section-two-text-three": "National accounting standards",
+              "three-section-two-text-four": "International standards of financial reporting",
+              "three-section-two-text-five": "Audit summary",
+              "three-section-two-text-six": "Issuer reports",
+
+              "three-section-three-title": "Internal documents of the society",
+
+              "three-section-four-title": "To shareholders",
+              "three-section-four-text-one": "Charter fund",
+              "three-section-four-text-two": "Affiliates",
+              "three-section-four-text-three": "List of shareholders",
+              "three-section-four-text-four": "To non-resident shareholders",
+              "three-section-four-text-five": "Dividends",
+
+              "three-section-five-title": "Projects",
+              "three-section-five-text-one": "Investment projects",
+              "three-section-five-text-two": "Tenders",
+              "three-section-five-text-three": "State purchases",
+              "three-section-five-text-four": "Public private partnership",
+              "three-section-five-text-five": "Events",
+
+              "three-section-six-title": "CBT assessment results",
+
+              "three-section-seven-title": "Key performance indicators",
+
+              "three-section-eight-title": "Business plan",
+
+              "four-title": "Press center",
+              "four-section-one": "News",
+              "four-section-two": "Media event",
+              "four-section-three": "Photo gallery",
+              "four-section-four": "Video Gallery",
+              "four-section-five": "Contact the press service",
+
+              "five-title": "Compliance control",
+
+              "six-title": "Open data",
+
+              "seven-title": "Contacts",
+              "seven-section-one": "Office",
+              "seven-section-two": "International cooperation",
+              "seven-section-three": "Hotline",
+              "seven-section-four": "Feedback",
+              "seven-section-five": "Citizen appeal",
+              "seven-section-six": "Citizen complaints statistics"
+       } 
+}

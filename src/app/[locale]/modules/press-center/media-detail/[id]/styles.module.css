@@ -1,0 +1,46 @@
+.media_detail_site {
+       display: flex;
+       flex-direction: column;
+       padding-bottom: 400px;
+       max-width: 912px;
+       width: 100%;
+}
+
+.media_detail_heading {
+       margin: 0;
+       margin-bottom: 16px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.media_detail_images {
+       border-radius: 16px;
+}
+
+.media_detail_desc {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 18px;
+}
+
+
+@media only screen and (max-width: 420px) {
+
+       .media_detail_heading {
+              font-family: 'Mulish', sans-serif;
+              font-weight: 700;
+              font-size: 24px;
+       }
+}
+
+
+@media only screen and (max-width: 320px) {
+
+       .media_detail_heading {
+              font-family: 'Mulish', sans-serif;
+              font-weight: 600;
+              font-size: 18px;
+       }
+}

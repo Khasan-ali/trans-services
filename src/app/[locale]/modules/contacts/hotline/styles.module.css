@@ -1,0 +1,83 @@
+.hotline {
+    max-width: 912px;
+    width: 100%;
+}
+
+.hotline_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.hotline_text {
+    margin: 0;
+    margin-bottom: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.hotline_link_section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 65px;
+}
+
+.hotline_link_label {
+    margin: 0;
+    margin-bottom: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.hotline_route_link {
+    text-decoration: none;
+}
+
+.hotline_bottom_sec {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}   
+
+.hotline_bottom_inner_sec {
+    display: flex;
+    align-items: center;
+    max-width: 450px;
+    width: 100%;
+}
+
+.hotlinebottom_text_sec {
+    margin-left: 10px;
+}
+
+.hotline_bottom_text_name {
+    margin: 0;
+    margin-bottom: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #373737;
+}
+
+.hotline_bottom_text_title {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+
+@media only screen and (max-width: 400px) {
+    .hotline_bottom_sec {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hotline_bottom_inner_sec:first-child {
+        margin-bottom: 20px;
+    }
+    
+}

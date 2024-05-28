@@ -1,0 +1,107 @@
+.enterprises {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 0 20px 200px;
+}
+
+.enterprises_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.enterprises_text {
+       margin: 0;
+       margin-bottom: 24px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 600;
+       font-size: 18px;
+}
+
+.enterprises_list {
+       display: grid;
+       grid-template-columns: auto auto;
+       gap: 20px;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+.enterprises_item {
+       padding: 24px;
+       cursor: pointer;
+       background: #F3F3F3;
+       border-radius: 8px;
+}
+
+.enterprises_item:hover {
+       background: #0065C1;
+       transition: all 300ms ease;
+}
+
+
+.enterprises_item:hover .enterprises_link {
+       color: #FFFFFF;
+       transition: all 300ms ease;
+}
+
+
+.enterprises_link {
+       text-decoration: none;
+       color: #000000;
+}
+
+.enterprises_item_heading {
+       margin: 0;
+       margin-bottom: 16px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+.enterprises_item_section {
+       display: flex;
+       align-items: center;
+}
+
+.enterprises_item_section:not(last-child) {
+       margin-bottom: 8px;
+}
+
+.enterprises_item_label {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+}
+
+.enterprises_item_text {
+       margin: 0;
+       margin-left: 8px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+}
+
+@media only screen and (max-width: 750px) {
+       .enterprises_list {
+              display: grid;
+              grid-template-columns: auto;
+       }
+       
+}
+
+
+@media only screen and (max-width: 400px) {
+       .enterprises_item_section {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+       }
+
+       .enterprises_item_text {
+              margin: 0;
+       }
+}

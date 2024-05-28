@@ -1,0 +1,41 @@
+.news {
+    display: flex;
+    flex-direction: column;
+    max-width: 912px;
+    width: 100%;
+}
+
+.news_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.news_swiper {
+    width: 100%;
+}
+
+.news_swiper_img {
+    max-width: 912px;
+    width: 100%;
+    max-height: 600px;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.news_body {
+    margin: 0;
+}
+
+
+.news_body a {
+    text-decoration: none;
+}
+
+.news_body p {
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}

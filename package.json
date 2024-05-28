@@ -1,0 +1,34 @@
+{
+  "name": "trans-service",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@antv/auto-chart": "^2.0.5-alpha.0",
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@headlessui/react": "^2.0.1",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
+    "date-fns": "^3.6.0",
+    "framer-motion": "^11.2.0",
+    "next": "14.2.3",
+    "next-intl": "^3.12.2",
+    "rc-table": "^7.45.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-paginate": "^8.2.0",
+    "swiper": "^11.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}

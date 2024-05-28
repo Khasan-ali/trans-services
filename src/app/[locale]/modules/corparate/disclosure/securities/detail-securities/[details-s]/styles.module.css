@@ -1,0 +1,42 @@
+.detail_securities {
+    display: flex;
+    flex-direction: column;
+    max-width: 912px;
+    width: 100%;
+}
+
+.detail_securities_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.detail_securities_img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.detail_securities_link {
+    display: flex;
+    align-items: center;
+    margin: 24px 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.detail_securities_link_text {
+    margin: 0;
+    margin-left: 4px;
+    color: #0065C1;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.detail_securities_heading_data {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}

@@ -1,0 +1,49 @@
+.fund {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 912px;
+}
+
+.fund_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.fund_images {
+    max-width: 700px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* .fund_link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.fund_link_text {
+    margin: 0;
+    margin-left: 4px;
+    color: #0065C1;
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+} */
+
+.fund_data_text {
+    margin: 0;
+    margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* 
+@media only screen and (max-width: 350px) {
+    .fund_link_text {
+        font-size: 14px;
+        font-weight: 400;
+    }
+} */

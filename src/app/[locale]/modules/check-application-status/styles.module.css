@@ -1,0 +1,108 @@
+
+.application {
+    max-width: 1264px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 24px 20px 200px;
+}
+
+.application_btn_section {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.application_btn_link {
+    padding: 16px 20px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.application_btn_link:first-child {
+    background-color: #F3F3F3;
+    color: #909090;
+}
+
+.application_btn_link:nth-child(2) {
+    margin-left: 16px;
+    background-color: #D4EBFF;
+    color: #0065C1;
+}
+
+.application_form {
+    padding: 24px;
+    background-color: #F3F3F3;
+    border-radius: 16px;
+    max-width: 912px;
+    width: 100%;
+}
+
+.application_form_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    column-gap: 10px;
+    width: 100%;
+}
+
+
+.application_form_input {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    color: #909090;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    border: none;
+    max-width: 420px;
+    width: 100%;
+    outline: none;
+}
+
+.application_form_btn {
+    padding: 16px 36px;
+    background-color: #0065C1;
+    border-radius: 24px;
+    color: #FFFFFF;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 500px) {
+
+
+    .application_btn_section {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+
+    .application_btn_link {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .application_btn_link:nth-child(2) {
+        margin-left: 0px;
+        margin-top: 8px;
+    }
+
+    .application_form_section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .application_form_input:first-child {
+        margin-bottom: 16px;
+    }
+}

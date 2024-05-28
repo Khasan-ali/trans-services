@@ -1,0 +1,98 @@
+.site_datas {
+       padding: 70px 0px;
+}
+
+.datas_list {
+       display: grid;
+       grid-template-columns: auto auto auto;
+       row-gap: 36px;
+       column-gap: 24px;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+.datas_item {
+       border-radius: 10px;
+       max-width: 392px;
+       width: 100%;
+}
+
+.datas_item_first:hover {
+       background-color: #FFF1E0;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+
+.datas_item_second:hover {
+       background-color: #E3FFE5;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+.datas_item_three:hover {
+       background-color: #F3EDFF;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+.datas_item_four:hover {
+       background-color: #D9E8FF;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+.datas_item_five:hover {
+       background-color: #FFF1E0;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+.datas_item_six:hover {
+       background-color: #FFE3E3;
+       transform: translateX(0%);
+       transition: all 300ms ease;
+}
+
+.datas_list_link {
+       display: flex;
+       align-items: center;
+       padding: 16px 0;
+       text-decoration: none;
+       color: #000000;
+       max-width: 392px;
+       width: 100%;
+}
+
+.datas_list_heading {
+       margin: 0;
+       margin: 0px 24px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 600;
+       font-size: 20px;
+}
+
+@media only screen and (max-width: 852px) {
+       .datas_list {
+              display: grid;
+              grid-template-columns: auto auto;
+              row-gap: 24px;
+              column-gap: 24px;
+       }
+}
+
+@media only screen and (max-width: 600px) {
+       .datas_list {
+              display: grid;
+              grid-template-columns: auto;
+       }
+}
+
+@media only screen and (max-width: 333px) {
+       .datas_list_link {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+       }
+
+       .datas_list_heading {
+              margin: 20px 0px;
+              text-align: center;
+       }
+}

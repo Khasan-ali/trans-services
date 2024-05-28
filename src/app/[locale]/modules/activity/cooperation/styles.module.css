@@ -1,0 +1,118 @@
+.cooperation {
+    max-width: 1264px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px 50px;
+}
+
+.cooperation_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.cooperation_list {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.cooperation_item {
+    display: flex;
+    align-items: center;
+}
+
+.cooperation_item:not(last-child) {
+    margin-bottom: 48px;
+}
+
+.cooperation_item_img {
+    margin-right: 24px;
+    width: 289px;
+    max-height: 204px;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.cooperation_item_section {
+    padding: 24px 24px 36px;
+    background-color: #F3F3F3;
+    border-radius: 16px;
+    max-width: 912px;
+    width: 100%;
+}
+
+.cooperation_item_heading {
+    margin: 0;
+    margin-bottom: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.cooperation_item_text {
+    margin: 0;
+    margin-bottom: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.cooperation_item_inner_sec {
+    display: flex;
+    align-items: center;
+}
+
+.cooperation_item_section_first {
+    display: flex;
+    align-items: center;
+}
+
+.cooperation_item_first_text_sec {
+    margin-left: 12px;
+}
+
+.cooperation_item_first_text_label {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #373737;
+}
+
+.cooperation_item_first_text_phonel {
+    margin: 0;
+    margin-top: 4px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.cooperation_item_section_first:not(last-child) {
+    margin-right: 24px;
+}
+
+@media only screen and (max-width: 950px) {
+    .cooperation_item_img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .cooperation_item_inner_sec {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 10px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .cooperation_item_inner_sec {
+        display: grid;
+        grid-template-columns: auto;
+        gap: 20px;
+    }
+}

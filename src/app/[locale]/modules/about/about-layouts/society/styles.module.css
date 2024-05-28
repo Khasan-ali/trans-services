@@ -1,0 +1,85 @@
+.investment {
+    display: flex;
+    flex-direction: column;
+    max-width: 912px;
+    width: 100%;
+}
+
+.investment_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.investment_list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.investment_item {
+    cursor: pointer;
+}
+
+.investment_item_link {
+    text-decoration: none;
+}
+
+.investment_item_img {
+    border-radius: 8px;
+    height: 170px;
+    max-width: 288px;
+}
+
+.investment_item_date {
+    margin: 8px 0;
+    color: #707070;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.investment_item_heading {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    display: -webkit-box;
+    max-width: 288px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 1050px) {
+    .investment_list {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .investment_item_img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .investment_list {
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .investment_item_img {
+        max-width: 600px;
+        width: 100%;
+    }
+    
+
+    .investment_item_heading {
+        width: 100%;
+    }
+}

@@ -1,0 +1,55 @@
+.site_statistics {
+       padding: 70px 0;
+}
+
+.statistics_heading {
+       margin: 0;
+       margin-bottom: 24px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.statistics_section {
+       box-sizing: border-box;
+       display: flex;
+       flex-direction: column;
+       padding: 24px 24px 48px;
+       border-radius: 16px;
+       height: 302px;
+       cursor: pointer;
+}
+
+.statistics_title {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 64px;
+       line-height: 80px;
+}
+
+.statistic_heading_text {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 700;
+       font-size: 20px;
+}
+
+.statistic_desc {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 24px;
+}
+
+
+@media only screen and (max-width: 320px) {
+       .statistics_title {
+              font-size: 36px;
+              line-height: 60px;
+       }
+
+       .statistic_desc {
+              font-size: 16px;
+       }
+}

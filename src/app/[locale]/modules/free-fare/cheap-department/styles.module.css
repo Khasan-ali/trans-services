@@ -1,0 +1,20 @@
+.freefare_site {
+       padding-bottom: 141px;
+}
+
+.freefare_heading {
+       margin: 0;
+       margin-bottom: 36px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.freefare_text {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 400;
+       font-size: 18px;
+       max-width: 912px;
+       width: 100%;
+}

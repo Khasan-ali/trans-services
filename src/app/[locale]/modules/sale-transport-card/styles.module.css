@@ -1,0 +1,149 @@
+.list {
+       padding: 24px 0px;
+}
+
+.card_item {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+
+.card_item:not(:last-child) {
+       margin-bottom: 48px;
+}
+
+.card_section {
+       display: flex;
+       flex-direction: column;
+       padding: 24px;
+       background-color: #F3F3F3;
+       border-radius: 16px;
+       max-width: 600px;
+       width: 100%;
+}
+
+.card_section_title {
+       margin: 0;
+       margin-bottom: 22px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 600;
+       font-size: 24px;
+}
+
+.card_inner_list {
+       display: flex;
+       align-items: center;
+       position: relative;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+.card_inner_item {
+       max-width: 600px;
+       width: 100%;
+}
+
+.card_inner_item:last-child::before {
+       position: absolute;
+       top: 0%;
+       left: 47%;
+       content: '';
+       width: 2px;
+       height: 426px;
+       color: #000;
+       background-color: #B5B5B5;
+       border-radius: 30px;
+}
+
+
+.card_inner_heading_section {
+       display: flex;
+       align-items: center;
+       margin-bottom: 24px;
+}
+
+.cards_title_heading {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       margin: 0;
+       background-color: blue;
+       color: #ffffff;
+       width: 40px;
+       height: 40px;
+       border-radius: 50%;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 16px;
+}
+
+.card_inner_list_title {
+       margin: 0;
+       margin-left: 16px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+.cards_price_list {
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+
+.cards_price_item {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       max-width: 240px;
+       width: 100%;
+}
+
+.cards_price_item:not(:last-child) {
+       margin-bottom: 16px;
+}
+
+
+.card_price_span {
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+       line-height: 21.78px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+       .card_item {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+       }
+       
+       .card_section {
+              margin-top: 24px;
+       }
+}
+
+@media only screen and (max-width: 630px) {
+       .card_inner_item:last-child::before {
+              display: none;
+       }
+
+       .card_inner_item {
+              margin-top: 24px;
+       }
+       
+       .card_inner_list {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+       }
+
+       .cards_price_item {
+              max-width: 542px;
+              width: 100%;
+       }
+}

@@ -1,0 +1,831 @@
+{
+       "Landing-page-Interactive-Service": {
+              "title": "Interactive xizmatlar",
+              "first-item-heading": "Avtobus buyurtma qilish",
+              "second-item-heading": "Onlayn yo‘nalish tuzish",
+              "three-item-heading": "Transport karta sotuvi"
+       },
+
+       "Landing-page-Datas": {
+              "title": "Ma’lumotlar",
+              "first-item-title": "Avtobus yo‘nalishlar ro‘yxati",
+              "second-item-title": "Transport kartalari",
+              "three-item-title": "Yagona transport kartalarini sotish joylari",
+              "four-item-title": "Ochiq ma’lumotlar",
+              "five-item-title": "Yo‘lkira narxlari",
+              "six-item-title": "Bepul foydalanish huquqi"
+       },
+
+       "Landing-About-Us": {
+              "title": "“TOSHSHAHARTRANSXIZMAT” AJNING RASMIY VEB-SAYTI",
+              "title-btn": "Batafsil"
+       },
+
+       "About-Us-Structure": {
+              "title": "Tuzilma"
+       },
+
+       "About-Us-Regulatory": {
+              "title": "Me’yoriy hujjatlar"
+       },
+       "About-Us-Legal": {
+              "title": "O'z kuchini yoqotgan normativ-huquqiy hujjatlar"
+       },
+       "About-Us-Vacancies": {
+              "title": "Bo‘sh ish o‘rinlari"
+       },
+
+       "About-Us-Website": {
+              "title": "Veb-saytdan foydalanish bo'yicha qo'llanma va terminlarning mazmuni"
+       },
+
+       "InnerTitte": {
+              "title": "Sahifa haqida",
+              "btn-title": "Orqaga"
+       },
+       "ServiceTitte": {
+              "title": "Xizmatlar",
+              "btn-title": "Orqaga"
+       },
+       "Hero": {
+              "title": "“TOSHSHAHARTRANSXIZMAT” AJNING RASMIY VEB-SAYTI",
+              "btn-title": "Batafsil"
+       },
+       "IndexPage": {
+              "title": "next-intl xush kelibsiz",
+              "description": "Next.js xalqarolashtirish (i18n) misoliga xush kelibsiz"
+       },
+       "NotFoundPage": {
+              "title": "Page topilmadi",
+              "description": "Voy! Siz shunday sahifaga qoqilib qolganga o'xshaysiz"
+       },
+       "Navigation": {
+              "home": "Uy"
+       },
+
+
+       "Bus-Card-Sale": {
+              "title": "Transport karta sotuvi",
+              "list-days": "kun",
+              "list-soum": "so'm"
+       },
+
+
+       
+       "Bus-Layouts": {
+              "link-title-first": "Avtobus buyurtma qilish",
+              "link-title-second": "Onlayn yo‘nalish tuzish",
+              "link-title-three": "Transport karta sotuvi"
+       },
+
+       "Bus-Online-Routes": {
+              "title": "Onlayn yo‘nalish tuzish",
+              "form-title": "Oʻzingizga qulay yo‘nalishni tanlang",
+              "form-first-select": "Qayerdan",
+              "form-second-select": "Qayerga",
+              "form-btn-title": "Yo‘nalish tuzish"
+       },
+
+       "Bus-Buying-Bus": {
+              "title": "Avtobus buyurtma qilish",
+              "numbers-title": "Avtobus sig‘dira oladigan odamlar soni",
+              "price-title": "Bir soatlik xizmat haqi miqdori (so‘mdan)"
+       },
+
+       "Landing-Useful-Links": {
+              "title": "Foydali havolalar"
+       },
+
+       "Landing-Statistics": {
+              "title": "Statistika",
+              "text-thousand": "MING+",
+              "text-million": "MLN+"
+       },
+
+
+       "Datas-Fare": {
+              "title": "Yo‘lkira narxlari"
+       },
+
+
+       "Single-Transport-Cards": {
+              "title": "Yagona transport kartalarini sotish joylari"
+       },
+
+       "Bus-Routes": {
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Korxonalar yo‘nalishlari",
+              "direction": "Yo‘nalish",
+              "route-name": "Yo‘nalish nomi",
+              "move-time": "Harakatlanish vaqti",
+              "route-duration": "Yo‘nalish davomiyligi",
+              "route-length": "Yo‘nalish uzunligi",
+              "markami-bus": "Avtobus markasi",
+              "park": "Avtopark"
+       },
+
+       
+       "Landing-Public-Trans": {
+              "title": "Jamoat transport tarixi"
+       },
+
+       "Public-Trans_Id": {
+              "title": "Modellar tarixi",
+              "btn-title": "Batafsil"
+       },
+
+       "Trans-Detail": {
+              "open-year": "Chiqish yili",
+              "people-size": "Odam sig‘adi",
+              "chairs": "O‘rindiqlar soni",
+              "description": "Yo‘nalishlar soni"
+       },
+
+       "Landing-News": {
+              "title": "Yangiliklar",
+              "link-title": "Barcha yangiliklar"
+       },
+
+       "Press-center-Layout": {
+              "first-link": "Yangiliklar",
+              "second-link": "Media-tadbir",
+              "three-link": "Fotogalereya",
+              "four-link": "Videogalereya",
+              "five-link": "Matbuot xizmati bilan bog‘lanish"
+       },
+
+       "Contacts-Layout": {
+              "first-link": "Devonxona",
+              "second-link": "Xalqaro hamkorlik",
+              "three-link": "Ishonch telefoni",
+              "four-link": "Qayta aloqa",
+              "five-link": "Fuqarolar murojaati",
+              "six-link": "Fuqarolar murojaatlari statistikasi"
+       },
+
+
+       "Press-Center-News": {
+              "title": "Yangiliklar"
+       },
+
+       "News-Media": {
+              "title": "Media-tadbir"
+       },
+
+       "News-Media-Detail": {
+              "title": "Fotogalereya"
+       },
+
+       "New-Video-Page": {
+              "title": "Videogalereya",
+              "route1": "Asosiy",
+              "route2": "Matbuot markazi",
+              "route3": "Videogalereya"
+       },
+
+       "New-Press-Service": {
+              "title": "Matbuot xizmati bilan bog‘lanish",
+              "route1": "Asosiy",
+              "route2": "Matbuot markazi",
+              "route3": "Matbuot xizmati bilan bog‘lanish",
+              "email-title": "Elektron manzil",
+              "phone-title": "Telefon"
+       },
+
+       "Information-Form": {
+              "form-title": "Qayta aloqa",
+              "input-first": "F.I.SH.",
+              "input-second": "Telefon",
+              "input-three": "Qisqacha maʼlumot",
+              "form-btn": "Yuborish"
+       },
+
+       
+       "Compleans-Control": {
+              "title": "Komplaens nazorati",
+              "route1": "Asosiy",
+              "route2": "Komplaens nazorati"
+       },
+
+       "Contacts-Feedback": {
+              "title": "Qayta aloqa",
+              "route1": "Asosiy",
+              "route2": "Aloqa",
+              "route3": "Qayta aloqa"
+       },
+
+       "Contact-Office": {
+              "title": "Devonxona",
+              "route1": "Asosiy",
+              "route2": "Aloqa",
+              "route3": "Devonxona",
+              "phone": "Telefon",
+              "first-email": "Elektron manzil",
+              "second-email": "Exat manzil",
+              "address": "Manzil",
+              "work-time": "Ish vaqti",
+              "networking": "Ijtimoiy tarmoqlar"
+       },
+
+       "Contact-Cooperation": {
+              "title": "Xalqaro hamkorlik",
+              "route1": "Asosiy",
+              "route2": "Aloqa",
+              "route3": "Xalqaro hamkorlik",
+              "phone": "Telefon",
+              "email": "Elektron manzil",    
+              "address": "Manzil",
+              "work-time": "Ish vaqti",
+              "networking": "Ijtimoiy tarmoqlar"
+       },
+
+
+       "Contact-Hotline": {
+              "title": "Ishonch telefoni",
+              "route1": "Asosiy",
+              "route2": "Aloqa",
+              "route3": "Ishonch telefoni",
+              "text": "Ishlash tartibi: Toshkent shahrining barcha turdagi shahar yo’lovchi tashish transporti ishiga oid murojaatlar, shikoyat va takliflar  Dushanbidan-Jumagacha, soat 8:00-17:00 gacha qabul qilinadi va qayd etiladi.",
+              "details": "Batafsil",
+              "link-title": "Jamiyatning ichki hujjatlari",
+              "phone-text": "Ishonch telefoni",
+              "phone-text-second": "Qisqa raqam"
+       },
+
+       "Contact-Appeal": {
+              "title": "Fuqarolar murojaati",
+              "route1": "Asosiy",
+              "route2": "Aloqa",
+              "route3": "Fuqarolar murojaati",
+              "btn-first": "Murojaat yuborish",
+              "btn-second": "Murojaat holatini tekshirish",
+              "name-placeholder": "F.I.Sh.",
+              "phone-placeholder": "Telefon",
+              "email-placeholder": "Elektron manzil",
+              "address-placeholder": "Manzil",    
+              "text-placeholder": "Qisqacha ma’lumot",
+              "upload-text": "Fayl yuklash",
+              "form-btn": "Yuborish"
+       },
+
+       "Controls-Application": {
+              "route1": "Asosiy",
+              "route2": "Murojaat holatini tekshirish",
+              "btn-first": "Murojaat yuborish",
+              "btn-second": "Murojaat holatini tekshirish",
+              "number-placeholder": "Murojaat raqami",
+              "verification-placeholder": "Tekshirish kodi",
+              "form-btn": "Yuborish"
+       },
+
+       "Corparate-Management-Layout": {
+              "first-link": "Kuzatuv kengashi",
+              "second-link": "Ijro organi",
+              "three-link": "Taftish komissiyasi",
+              "four-link": "Ichki audit xizmati",
+              "five-link": "Kuzatuv kengashi a’zolarini mukofotlash"
+       },
+
+       "Corparate-Management-Supervisory": {
+              "title": "Kuzatuv kengashi",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Boshqaruv nazorati organi",
+              "route4": "Kuzatuv kengashi"
+       },
+
+       "Corparate-Management-Executive": {
+              "title": "Ijro organi",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Boshqaruv nazorati organi",
+              "route4": "Ijro organi"
+       },
+
+       "Corparate-Management-Inspection": {
+              "title": "Taftish komissiyasi",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Boshqaruv nazorati organi",
+              "route4": "Taftish komissiyasi"
+       },
+
+       "Corparate-Management-Audit-Service": {
+              "title": "Ichki audit xizmati",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Boshqaruv nazorati organi",
+              "route4": "Ichki audit xizmati"
+       },
+
+       "Corparate-Management-Board-members": {
+              "title": "Kuzatuv kengashi a’zolarini mukofotlash",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Boshqaruv nazorati organi",
+              "route4": "Kuzatuv kengashi a’zolarini mukofotlash",
+              "download-title": "Faylni yuklang"
+       },
+
+       "Corparate-Disclosure-Layout": {
+              "first-link": "Qimmatbaho qog‘ozlar chiqarish",
+              "second-link": "Muhim faktlar",
+              "three-link": "Buxgalteriya hisobining milliy standartlari",
+              "four-link": "Moliyaviy hisobotning xalqaro standartlari",
+              "five-link": "Audit xulosasi",
+              "six-link": "Emitent hisobotlari"
+       },
+
+
+       "Corparate-Disclosure-Securities": {
+              "title": "Qimmatbaho qog‘ozlar chiqarish",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Qimmatbaho qog‘ozlar chiqarish",
+              "link-text": "Faylni yuklang"
+       },
+
+       "Corparate-Disclosure-Facts": {
+              "title": "Muhim faktlar",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Muhim faktlar",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Disclosure-National-Accounting": {
+              "title": "Buxgalteriya hisobining milliy standartlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Buxgalteriya hisobining milliy standartlari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Disclosure-Financial-Reporting": {
+              "title": "Moliyaviy hisobotning xalqaro standartlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Moliyaviy hisobotning xalqaro standartlari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+
+       "Corparate-Disclosure-Audit-Summary": {
+              "title": "Audit xulosasi",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Audit xulosasi",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Disclosure-Issuer-Reports": {
+              "title": "Emitent hisobotlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Ma’lumotlarni oshkor etish",
+              "route4": "Emitent hisobotlari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Layout": {
+              "first-link": "Jamiyatning ichki hujjatlari",
+              "second-link": "KBT baholash natijalari",
+              "three-link": "Samaradorlikning muhim ko'rsatkichlari",
+              "four-link": "Biznes reja"
+       },
+
+       "Corparate-Internal-Documents": {
+              "title": "Jamiyatning ichki hujjatlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Jamiyatning ichki hujjatlari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Assesment": {
+              "title": "KBT baholash natijalari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "KBT baholash natijalari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Performance": {
+              "title": "Samaradorlikning muhim ko'rsatkichlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Samaradorlikning muhim ko'rsatkichlari",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Bussiness-Plan": {
+              "title": "Biznes reja",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Biznes reja",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Shareholder-Layout": {
+              "first-link": "Ustav fondi",
+              "second-link": "Afillangan shaxslar",
+              "three-link": "Aksiyadorlar ro‘yxati",
+              "four-link": "Rezident bo'lmagan aksiyadorlarga",
+              "five-link": "Dividendlar"
+       },
+
+       "Corparate-shareholders-Fund": {
+              "title": "Ustav fondi",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Aksiyadorlarga",
+              "route4": "Ustav fondi", 
+              "link-text": "Faylni yuklang"
+       },
+
+       "Corparate-shareholders-Affili": {
+              "title": "Afillangan shaxslar",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Aksiyadorlarga",
+              "route4": "Afillangan shaxslar", 
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-shareholders-holder": {
+              "title": "Aksiyadorlar ro‘yxati",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Aksiyadorlarga",
+              "route4": "Aksiyadorlar ro‘yxati", 
+              "link-text": "Moliya vazirligi hamda Transport vazirligi tomonidan “Qimmatli qog 'ozlarni o' tkazish uchun depo topshirig'i” imzolandi. 11.11.2022 yildan boshlab “Toshshahartransxizmat” AJning 100 foiz aksiyalar paketi O‘zbekiston Respublikasi Transport vazirligiga o‘tkazildi."
+       },
+
+       "Corparate-shareholders-Resident": {
+              "title": "Rezident bo'lmagan aksiyadorlarga",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Aksiyadorlarga",
+              "route4": "Rezident bo'lmagan aksiyadorlarga"
+       },
+
+       "Corparate-shareholders-Dividend": {
+              "title": "Dividendlar",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Aksiyadorlarga",
+              "route4": "Dividendlar", 
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Projects-Layout": {
+              "first-link": "Investitsion loyihalar",
+              "second-link": "Tenderlar",
+              "three-link": "Davlat xaridlari",
+              "four-link": "Davlat xususiy sheriklik",
+              "five-link": "Tadbirlar"
+       },
+
+       "Corparate-Projects-Investment": {
+              "title": "Investitsion loyihalar",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Loyihalar",
+              "route4": "Investitsion loyihalar"  
+       },
+
+       "Corparate-Projects-Tenders": {
+              "title": "Tenderlar",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Loyihalar",
+              "route4": "Tenderlar",
+              "link-text": "Ko‘chirib olish"
+       },
+
+       "Corparate-Projects-Purchaches": {
+              "title": "Davlat xaridlari",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Loyihalar",
+              "route4": "Davlat xaridlari",
+              "link-text": "Faylni yuklang"
+       },
+
+       "Corparate-Projects-Partnership": {
+              "title": "Davlat xususiy sheriklik",
+              "route1": "Asosiy",
+              "route2": "Korporativ boshqaruv",
+              "route3": "Loyihalar",
+              "route4": "Davlat xususiy sheriklik",
+              "link-text": "Faylni yuklang"
+       },
+
+       "Activity-Layout": {
+              "first-link": "Korxonalar yo‘nalishlari",
+              "second-link": "Chora-tadbirlar",
+              "three-link": "Hisobotlar",
+              "four-link": "Elektron hukumat",
+              "five-link": "Hamkorlik",
+              "six-link": "Xizmatlar"
+       },
+
+       "Activity-Direction": {
+              "title": "Korxonalar yo‘nalishlari",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Korxonalar yo‘nalishlari"
+       },
+
+       "Activity-Measures": {
+              "title": "Chora-tadbirlar",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Chora-tadbirlar",
+              "link-text": "Ko‘chirib olish"     
+       },
+
+       "Activity-Government": {
+              "title": "Elektron hukumat",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Elektron hukumat",
+              "link-text": "Ko‘chirib olish"    
+       },
+
+       "Activity-Reports": {
+              "title": "Hisobotlar",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Hisobotlar",
+              "link-text": "Faylni yuklang"  
+       },
+
+
+       "Activity-Cooperation": {
+              "title": "Hamkorlik",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Hamkorlik",
+              "phone-label": "Telefon",  
+              "internet-label": "Veb sayt",     
+              "mail-label": "Elektron manzil"  
+       },
+
+       "Activity-Service": {
+              "title": "Xizmatlar",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Xizmatlar",
+              "text-label": "Toifasi"
+       },
+
+       "Activity-Policy-Layout": {
+              "first-link": "Yoshlarga oid yangiliklar",
+              "second-link": "Yoshlarga oid me’yoriy hujjatlar"
+       },
+
+       "Activity-Policy-News": {
+              "title": "Yoshlarga oid yangiliklar",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Yoshlar siyosati",
+              "route4": "Yoshlarga oid yangiliklar"
+       },
+
+       "Activity-Policy-Documents": {
+              "title": "Yoshlarga oid me’yoriy hujjatlar",
+              "route1": "Asosiy",
+              "route2": "Faoliyat",
+              "route3": "Yoshlar siyosati",
+              "route4": "Yoshlarga oid me’yoriy hujjatlar",
+              "link-text": "Ko‘chirib olish"     
+       },
+
+       "About-Layout": {
+              "link1": "Biz haqimizda",
+              "link2": "Rahbariyat",
+              "link3": "Tuzilma",
+              "link4": "Bo‘lim va xizmatlar",
+              "link5": "Tarkibiy korxonalar",
+              "link6": "Me’yoriy hujjatlar",
+              "link7": "O'z kuchini yoqotgan normativ-huquqiy hujjatlar",
+              "link8": "Bo‘sh ish o‘rinlari",
+              "link9": "Tez-tez so‘raladigan savollar",
+              "link10": "Jamiyat – raqamlashtirish",
+              "link11": "Jamiyat kasaba uyushmasi",
+              "link12": "Veb-saytdan foydalanish bo'yicha qo'llanma va terminlarning mazmuni"
+       },
+
+
+       "About-Regulatory-Documents": {
+              "title": "Me’yoriy hujjatlar",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Me’yoriy hujjatlar",
+              "link-text": "Ko‘chirib olish"  
+       },
+
+       "About-Regulatory-Leadership": {
+              "title": "Rahbariyat",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Rahbariyat",
+              "position1": "Telefon",
+              "position2": "Faks",
+              "position3": "Elektron manzil",
+              "position4": "Qabul kunlari",
+              "btn1": "Tarjimai hol",
+              "btn2": "Majburiyati"
+       },
+              
+       "About-Us-About-us": {
+              "title": "Biz haqimizda",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "bus-heading": "Modellar tarixi",
+              "link-title": "Barcha modellar"
+       },
+
+       "About-Us-Department": {
+              "title": "Bo‘lim va xizmatlar",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Bo‘lim va xizmatlar",
+              "btn": "Batafsil",
+              "position1": "Telefon",
+              "position3": "Elektron manzil"
+       },
+
+       "About-Us-Community": {
+              "title": "Jamiyat kasaba uyushmasi",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Jamiyat kasaba uyushmasi",
+              "btn": "Batafsil",
+              "position1": "Telefon",
+              "position3": "Elektron manzil"
+       },
+
+       "About-Us-FAQ": {
+              "title": "Tez-tez so‘raladigan savollar",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Tez-tez so‘raladigan savollar"
+       },
+
+       "About-Us-Society": {
+              "title": "Jamiyat – raqamlashtirish",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Jamiyat – raqamlashtirish"
+       },
+
+       "About-Us-Structural-Enterprises": {
+              "title": "Tarkibiy korxonalar",
+              "text": "«Toshshahartransxizmat» AJ tarkibiga kiruvchi Davlat korxonalari toʻgʻrisida ma’lumot",
+              "route1": "Asosiy",
+              "route2": "Biz haqimizda",
+              "route3": "Tarkibiy korxonalar",
+              "label1": "Rahbar",
+              "label2": "Manzil",
+              "label3": "Telefon"
+       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+       "Footers": {
+              "top-center": "Oʻzbekiston Respublikasi, 100000, Toshkent shahri, Amir Temur 1-tor koʻchasi, 6 uy",
+              "top-right": "Yangiliklarimizga obuna bo‘ling",
+              "center-left-top": "Veb-saytdan olingan maʼlumotlar chop etilganda veb-saytga havola qilish majburiy",
+              "center-left-bottom": "Saytdagi barcha materiallardan quyidagi litsenziya bo‘yicha foydalanish mumkin: Creative Commons Attribution 4.0 International",
+              "center-right": "Matnda xato topsangiz, uni tanlang va veb-sayt ma’muriyatini xabardor qilish uchun “Ctrl + Enter” tugmasini bosing",
+              "bottom-right": "tomonidan ishlab chiqilgan"
+       },
+       "Header": {
+              "first-title": "Biz haqimizda",
+              "first-section-one": "Biz haqimizda",
+              "first-section-one-path": "/uz/modules/about/aboutus",
+              "first-section-two": "Rahbariyat",
+              "first-section-three": "Tuzilma",
+              "first-section-five": "Bo‘lim va xizmatlar",
+              "first-section-six": "Tarkibiy korxonalar",
+              "first-section-seven": "Me’yoriy hujjatlar",
+              "first-section-eight-eight": "O'z kuchini yoqotgan normativ-huquqiy hujjatlar",
+              "first-section-eight": "Bo‘sh ish o‘rinlari",
+              "first-section-nine": "Tez-tez so‘raladigan savollar",
+              "first-section-ten": "Jamiyat – raqamlashtirish",
+              "first-section-eleven": "Jamiyat kasaba uyushmasi",
+              "first-section-eleven-eleven": "Veb-saytdan foydalanish bo'yicha qo'llanma va terminlarning mazmuni",
+
+              "second-title": "Faoliyat",
+              "second-section-one": "Korxonalar yo‘nalishlari",
+              "second-section-two": "Chora-tadbirlar",
+              "second-section-three": "Hisobotlar",
+              "second-section-four": "Elektron hukumat",
+              "second-section-five": "Hamkorlik",
+              "second-section-six": "Xizmatlar",
+              "second-section-seven-title": "Yoshlar siyosati",
+              "second-section-seven-one-text": "Yoshlarga oid yangiliklar",
+              "second-section-seven-two-text": "Yoshlarga oid me’yoriy hujjatlar",
+              
+              "three-title": "Korporativ boshqaruv",
+              "three-section-one-title": "Boshqaruv nazorati organi",
+              "three-section-one-text-one": "Kuzatuv kengashi",
+              "three-section-one-text-two": "Ijro organi",
+              "three-section-one-text-three": "Taftish komissiyasi",
+              "three-section-one-text-four": "Ichki audit xizmati",
+              "three-section-one-text-five": "Kuzatuv kengashi a’zolarini mukofotlash",
+
+              "three-section-two-title": "Ma’lumotlarni oshkor etish",
+              "three-section-two-text-one": "Qimmatbaho qog‘ozlar chiqarish",
+              "three-section-two-text-two": "Muhim faktlar",
+              "three-section-two-text-three": "Buxgalteriya hisobining milliy standartlari",
+              "three-section-two-text-four": "Moliyaviy hisobotning xalqaro standartlari",
+              "three-section-two-text-five": "Audit xulosasi",
+              "three-section-two-text-six": "Emitent hisobotlari",
+
+              "three-section-three-title": "Jamiyatning ichki hujjatlari",
+
+              "three-section-four-title": "Aksiyadorlarga",
+              "three-section-four-text-one": "Ustav fondi",
+              "three-section-four-text-two": "Afillangan shaxslar",
+              "three-section-four-text-three": "Aksiyadorlar ro‘yxati",
+              "three-section-four-text-four": "Rezident bo'lmagan aksiyadorlarga",
+              "three-section-four-text-five": "Dividendlar",
+
+              "three-section-five-title": "Loyihalar",
+              "three-section-five-text-one": "Investitsion loyihalar",
+              "three-section-five-text-two": "Tenderlar",
+              "three-section-five-text-three": "Davlat xaridlari",
+              "three-section-five-text-four": "Davlat xususiy sheriklik",
+              "three-section-five-text-five": "Tadbirlar",
+
+              "three-section-six-title": "KBT baholash natijalari",
+
+              "three-section-seven-title": "Samaradorlikning muhim ko'rsatkichlari",
+
+              "three-section-eight-title": "Biznes reja",
+
+              "four-title": "Matbuot markazi",
+              "four-section-one": "Yangiliklar",
+              "four-section-two": "Media-tadbir",
+              "four-section-three": "Fotogalereya",
+              "four-section-four": "Videogalereya",
+              "four-section-five": "Matbuot xizmati bilan bog‘lanish",
+
+              "five-title": "Komplaens nazorati",
+
+              "six-title": "Ochiq ma’lumotlar",
+
+              "seven-title": "Aloqa",
+              "seven-section-one": "Devonxona",
+              "seven-section-two": "Xalqaro hamkorlik",
+              "seven-section-three": "Ishonch telefoni",
+              "seven-section-four": "Qayta aloqa",
+              "seven-section-five": "Fuqarolar murojaati",
+              "seven-section-six": "Fuqarolar murojaatlari statistikasi"
+       }
+
+
+}

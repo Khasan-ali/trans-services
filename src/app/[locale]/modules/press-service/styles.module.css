@@ -1,0 +1,133 @@
+.press_section {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 24px 20px 64px;
+}
+
+.press_section_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.press_hero_section {
+       display: flex;
+       align-items: center;
+       padding: 24px;
+       max-width: 912px;
+       width: 100%;
+       background-color: #F3F3F3;
+       border-radius: 10px;
+}
+
+.press_hero_img {
+       width: 160px;
+       height: 160px;
+       border-radius: 10px;
+}
+
+.press_hero_right {
+       display: flex;
+       flex-direction: column;
+       margin-left: 24px;
+       width: 100%;
+}
+
+.press_hero_title {
+       margin: 0;
+       margin-bottom: 16px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 600;
+       font-size: 20px;
+}
+
+.press_hero_text {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+       color: #373737;
+}
+
+.press_hero_main_sec {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       flex-wrap: wrap;
+       margin-top: 24px;
+       max-width: 540px;
+       width: 100%;
+}
+
+.press_hero_mail_sec {
+       display: flex;
+       align-items: center;
+}
+
+.press_hero_mail_inner_sec {
+       margin-left: 12px;
+}
+
+.press_hero_mail_text {
+       margin: 0;
+       margin-bottom: 4px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 400;
+       font-size: 14px;
+       color: #373737;
+}
+
+.press_hero_main {
+       margin: 0;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+}
+
+.press_text {
+       margin: 0;
+       margin-top: 24px;
+       font-family: "Inter", sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+       max-width: 912px;
+       width: 100%;
+}
+
+
+@media only screen and (max-width: 747px) {
+       .press_hero_mail_sec:not(:first-child) {
+              margin-top: 20px;
+       }
+       
+}
+
+
+@media only screen and (max-width: 550px) {
+
+       .press_hero_section {
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start;
+              padding: 24px;
+              max-width: 912px;
+              width: 100%;
+              background-color: #F3F3F3;
+              border-radius: 10px;
+       }
+       
+       .press_hero_right {
+              margin-top: 24px;
+              margin-left: 0;
+       }
+
+       .press_hero_img {
+              width: 100%;
+              height: 100%;
+       }
+}
+
+
+

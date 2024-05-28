@@ -1,0 +1,829 @@
+{
+       "Landing-page-Interactive-Service": {
+              "title": "Интерактив хизматлар",
+              "first-item-heading": "Автобус буюртма қилиш",
+              "second-item-heading": "Онлайн йўналиш тузиш",
+              "three-item-heading": "Транспорт карта сотуви"
+       },
+
+       "Landing-page-Datas": {
+              "title": "Маълумотлар",
+              "first-item-title": "Автобуслар йўналишлар рўйхати",
+              "second-item-title": "Транспорт карталари",
+              "three-item-title": "Ягона транспорт карталарини сотиш жойлари",
+              "four-item-title": "Очиқ маълумотлар",
+              "five-item-title": "Йўлкира нархлари",
+              "six-item-title": "Бепул фойдаланиш ҳуқуқи"
+       },
+
+       "Landing-About-Us": {
+              "title": "“ТОШШАҲАРТРАНСХИЗМАТ” АЖНИНГ РАСМИЙ ВЕБ-САЙТИ",
+              "title-btn": "Батафсил"
+       },
+
+       "About-Us-Structure": {
+              "title": "Тузилма"
+       },
+
+       "About-Us-Regulatory": {
+              "title": "Mеъёрий ҳужжатлар"
+       },
+       "About-Us-Legal": {
+              "title": "Ўз кучини ёқотган норматив-ҳуқуқий ҳужжатлар"
+       },
+       "About-Us-Vacancies": {
+              "title": "Бўш иш ўринлари"
+       },
+
+       "About-Us-Website": {
+              "title": "Веб-сайтдан фойдаланиш бўйича қўлланма ва терминларнинг мазмуни"
+       },
+
+
+       "InnerTitte": {
+              "title": "вмфвмфвы",
+              "btn-title": "ыммва"
+       },
+       "ServiceTitte": {
+              "title": "Усaddлуги",
+              "btn-title": "Наdfasdзад"
+       },
+       "Hero": {
+              "title": "“ТОШШАҲАРТРАНСХИЗМАТ” АЖНИНГ РАСМИЙ ВЕБ-САЙТИ",
+              "btn-title": "Батафсил"
+       },
+       "IndexPage": {
+              "title": "next-intl xush kelibsiz",
+              "description": "Next.js xalqarolashtirish (i18n) misoliga xush kelibsiz"
+       },
+       "NotFoundPage": {
+              "title": "Page topilmadi",
+              "description": "Voy! Siz shunday sahifaga qoqilib qolganga o'xshaysiz"
+       },
+       "Navigation": {
+              "home": "Uy"
+       },
+
+
+       "Bus-Card-Sale": {
+              "title": "Транспорт карта сотуви",
+              "list-days": "кун",
+              "list-soum": "сўм"
+       },
+
+
+       "Bus-Layouts": {
+              "link-title-first": "Автобус буюртма қилиш",
+              "link-title-second": "Онлайн йўналиш тузиш",
+              "link-title-three": "Транспорт карта сотуви"
+       },
+
+       "Bus-Online-Routes": {
+              "title": "Онлайн йўналиш тузиш",
+              "form-title": "Ўзингизга қулай йўналишни танланг",
+              "form-first-select": "Қаердан",
+              "form-second-select": "Қаерга",
+              "form-btn-title": "Йўналиш тузиш"
+       },
+
+       "Bus-Buying-Bus": {
+              "title": "Автобус буюртма қилиш",
+              "numbers-title": "Aвтобус сиғдира оладиган одамлар сони",
+              "price-title": "Бир соатлик хизмат ҳақи миқдори (сўмдан)"
+       },
+
+       "Landing-Useful-Links": {
+              "title": "Фойдали ҳаволалар"
+       },
+
+       "Landing-Statistics": {
+              "title": "Статистика",
+              "text-thousand": "МИНГ+",
+              "text-million": "МЛН+"
+       },
+
+
+       "Datas-Fare": {
+              "title": "Йўлкира нархлари"
+       },
+
+       "Single-Transport-Cards": {
+              "title": "Ягона транспорт карталарини сотиш жойлари"
+       },
+
+       "Bus-Routes": {
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Корхоналар йўналишлари",
+              "direction": "Йўналиш",
+              "route-name": "Йўналиш номи",
+              "move-time": "Ҳаракатланиш вақти",
+              "route-duration": "Йўналиш давомийлиги",
+              "route-length": "Йўналиш узунлиги",
+              "markami-bus": "Марками автобуси",
+              "park": "Парк"
+       },
+              
+       "Landing-Public-Trans": {
+              "title": "Жамоат транспорт тарихи"
+       },
+
+       "Public-Trans_Id": {
+              "title": "Моделлари тарихи",
+              "btn-title": "Батафсил"
+       },
+
+       "Trans-Detail": {
+              "open-year": "Чиқиш йили",
+              "people-size": "Одам сиғади",
+              "chairs": "Ўриндиқлар сони",
+              "description": "Йўналишлар сони"
+       },
+
+       "Landing-News": {
+              "title": "Янгиликлар",
+              "link-title": "Барча янгиликлар"
+       },
+
+       "Press-center-Layout": {
+              "first-link": "Янгиликлар",
+              "second-link": "Медиа-тадбир",
+              "three-link": "Фотогалерея",
+              "four-link": "Видеогалерея",
+              "five-link": "Матбуот хизмати билан боғланиш"
+       },
+
+       "Contacts-Layout": {
+              "first-link": "Девонхона",
+              "second-link": "Халқаро ҳамкорлик",
+              "three-link": "Ишонч телефони",
+              "four-link": "Қайта алоқа",
+              "five-link": "Фуқаролар мурожаати",
+              "six-link": "Фуқаролар мурожаатлари статистикаси"
+       },
+
+       "Press-Center-News": {
+              "title": "Янгиликлар"
+       },
+
+       "News-Media": {
+              "title": "Медиа-тадбир"
+       },
+
+       "News-Media-Detail": {
+              "title": "Фотогалерея"
+       },
+
+       "New-Video-Page": {
+              "title": "Видеогалерея",
+              "route1": "Aсосий",
+              "route2": "Матбуот маркази",
+              "route3": "Видеогалерея"
+       },
+
+       "New-Press-Service": {
+              "title": "Матбуот хизмати билан боғланиш",
+              "route1": "Aсосий",
+              "route2": "Матбуот маркази",
+              "route3": "Матбуот хизмати билан боғланиш",
+              "email-title": "Электрон манзил",
+              "phone-title": "Телефон"
+       },
+
+       "Information-Form": {
+              "form-title": "Қайта алоқа",
+              "input-first": "Ф.И.Ш",
+              "input-second": "Телефон",
+              "input-three": "Қисқача маълумот",
+              "form-btn": "Юбориш"
+       },
+
+       "Compleans-Control": {
+              "title": "Комплаенс назорати",
+              "route1": "Aсосий",
+              "route2": "Комплаенс назорати"
+       },
+
+       "Contacts-Feedback": {
+              "title": "Қайта алоқа",
+              "route1": "Aсосий",
+              "route2": "Алоқа",
+              "route3": "Қайта алоқа"
+       },
+
+       "Contact-Office": {
+              "title": "Девонхона",
+              "route1": "Aсосий",
+              "route2": "Алоқа",
+              "route3": "Девонхона",
+              "phone": "Телефон",
+              "first-email": "Электрон манзил",
+              "second-email": "Exat манзил",
+              "address": "Манзил",
+              "work-time": "Иш вақти",
+              "networking": "Ижтимоий тармоқлар"
+       },
+
+       "Contact-Cooperation": {
+              "title": "Халқаро ҳамкорлик",
+              "route1": "Aсосий",
+              "route2": "Алоқа",
+              "route3": "Халқаро ҳамкорлик",
+              "phone": "Телефон",
+              "email": "Электрон манзил",    
+              "address": "Манзил",
+              "work-time": "Иш вақти",
+              "networking": "Ижтимоий тармоқлар"
+       },
+
+       "Contact-Hotline": {
+              "title": "Ишонч телефони",
+              "route1": "Aсосий",
+              "route2": "Алоқа",
+              "route3": "Ишонч телефони",
+              "text": "Ишлаш тартиби: Тошкент шаҳрининг барча турдаги шаҳар йўловчи ташиш транспорти ишига оид мурожаатлар, шикоят ва таклифлар  Душанбидан-Жумагача, соат 8:00-17:00 гача қабул қилинади ва қайд этилади.",
+              "details": "Батафсил",
+              "link-title": "Жамиятнинг ички ҳужжатлари",
+              "phone-text": "Ишонч телефони",
+              "phone-text-second": "Қисқа рақам"
+       },
+
+       "Contact-Appeal": {
+              "title": "Фуқаролар мурожаати",
+              "route1": "Aсосий",
+              "route2": "Алоқа",
+              "route3": "Фуқаролар мурожаати",
+              "btn-first": "Мурожаат юбориш",
+              "btn-second": "Мурожаат ҳолатини текшириш",
+              "name-placeholder": "Ф.И.О",
+              "phone-placeholder": "Телефон",
+              "email-placeholder": "Электрон манзил",
+              "address-placeholder": "Манзил",    
+              "text-placeholder": "Қисқача маълумот",
+              "upload-text": "Файл юклаш",
+              "form-btn": "Юбориш"
+       },
+
+       "Controls-Application": {
+              "route1": "Aсосий",
+              "route2": "Мурожаат ҳолатини текшириш",
+              "btn-first": "Мурожаат юбориш",
+              "btn-second": "Мурожаат ҳолатини текшириш",
+              "number-placeholder": "Мурожаат рақами",
+              "verification-placeholder": "Текшириш коди",
+              "form-btn": "Юбориш"
+       },
+
+       
+       "Corparate-Management-Layout": {
+              "first-link": "Кузатув кенгаши",
+              "second-link": "Ижро органи",
+              "three-link": "Тафтиш комиссияси",
+              "four-link": "Ички аудит хизмати",
+              "five-link": "Кузатув кенгаши аъзоларини мукофотлаш"
+       },
+
+       "Corparate-Management-Supervisory": {
+              "title": "Кузатув кенгаши",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бошқарув назорати органи",
+              "route4": "Кузатув кенгаши"
+       },
+
+       "Corparate-Management-Executive": {
+              "title": "Ижро органи",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бошқарув назорати органи",
+              "route4": "Ижро органи"
+       },
+
+       "Corparate-Management-Inspection": {
+              "title": "Тафтиш комиссияси",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бошқарув назорати органи",
+              "route4": "Тафтиш комиссияси"
+       },
+
+       "Corparate-Management-Audit-Service": {
+              "title": "Ички аудит хизмати",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бошқарув назорати органи",
+              "route4": "Ички аудит хизмати"
+       },
+
+       "Corparate-Management-Board-members": {
+              "title": "Кузатув кенгаши аъзоларини мукофотлаш",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бошқарув назорати органи",
+              "route4": "Кузатув кенгаши аъзоларини мукофотлаш",
+              "download-title": "Файлни юкланг"
+       },
+
+       "Corparate-Disclosure-Layout": {
+              "first-link": "Қимматбаҳо қоғозлар чиқариш",
+              "second-link": "Муҳим фактлар",
+              "three-link": "Бухгалтерия ҳисобининг миллий стандартлари",
+              "four-link": "Молиявий ҳисоботнинг халқаро стандартлари",
+              "five-link": "Аудит хулосаси",
+              "six-link": "Эмитент ҳисоботлари"
+       },
+
+
+       "Corparate-Disclosure-Securities": {
+              "title": "Қимматбаҳо қоғозлар чиқариш",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Қимматбаҳо қоғозлар чиқариш",
+              "link-text": "Файлни юкланг"
+       },
+
+       "Corparate-Disclosure-Facts": {
+              "title": "Муҳим фактлар",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Муҳим фактлар",
+              "link-text": "Кўчириб олиш"
+       },
+
+
+       "Corparate-Disclosure-National-Accounting": {
+              "title": "Бухгалтерия ҳисобининг миллий стандартлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Бухгалтерия ҳисобининг миллий стандартлари",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Disclosure-Financial-Reporting": {
+              "title": "Молиявий ҳисоботнинг халқаро стандартлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Молиявий ҳисоботнинг халқаро стандартлари",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Disclosure-Audit-Summary": {
+              "title": "Аудит хулосаси",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Аудит хулосаси",
+              "link-text": "Кўчириб олиш"
+       },
+
+
+       "Corparate-Disclosure-Issuer-Reports": {
+              "title": "Эмитент ҳисоботлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Маълумотларни ошкор этиш",
+              "route4": "Эмитент ҳисоботлари",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Layout": {
+              "first-link": "Жамиятнинг ички ҳужжатлари",
+              "second-link": "КБТ баҳолаш натижалари",
+              "three-link": "Самарадорликнинг муҳим кўрсаткичлари",
+              "four-link": "Бизнес режа"
+       },
+
+       "Corparate-Internal-Documents": {
+              "title": "Жамиятнинг ички ҳужжатлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Жамиятнинг ички ҳужжатлари",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Assesment": {
+              "title": "КБТ баҳолаш натижалари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "КБТ баҳолаш натижалари",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Performance": {
+              "title": "Самарадорликнинг муҳим кўрсаткичлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Самарадорликнинг муҳим кўрсаткичлари",
+              "link-text": "Кўчириб олиш"
+       },
+
+
+       "Corparate-Bussiness-Plan": {
+              "title": "Бизнес режа",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Бизнес режа",
+              "link-text": "Кўчириб олиш"
+       },
+
+
+       "Corparate-Shareholder-Layout": {
+              "first-link": "Устав фонди",
+              "second-link": "Афилланган шахслар",
+              "three-link": "Акциядорлар рўйхати",
+              "four-link": "Резидент бўлмаган акциядорларга",
+              "five-link": "Дивидендлар"
+       },
+
+       "Corparate-shareholders-Fund": {
+              "title": "Устав фонди",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Акциядорларга",
+              "route4": "Устав фонди", 
+              "link-text": "Файлни юкланг"
+       },
+
+       "Corparate-shareholders-Affili": {
+              "title": "Афилланган шахслар",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Акциядорларга",
+              "route4": "Афилланган шахслар", 
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-shareholders-holder": {
+              "title": "Акциядорлар рўйхати",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Акциядорларга",
+              "route4": "Акциядорлар рўйхати", 
+              "link-text": "     Молия вазирлиги ҳамда Транспорт вазирлиги томонидан “Қимматли қог ъозларни ў тказиш учун депо топширигʼи” имзоланди. 11.11.2022 йилдан бошлаб “Тошшаҳартрансхизмат” АЖнинг 100 фоиз акциялар пакети Ўзбекистон Республикаси Транспорт вазирлигига ўтказилди."
+       },
+
+       "Corparate-shareholders-Resident": {
+              "title": "Резидент бўлмаган акциядорларга",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Акциядорларга",
+              "route4": "Резидент бўлмаган акциядорларга"
+       },
+
+       "Corparate-shareholders-Dividend": {
+              "title": "Дивидендлар",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Акциядорларга",
+              "route4": "Дивидендлар", 
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Projects-Layout": {
+              "first-link": "Инвеститцион лойиҳалар",
+              "second-link": "Тендерлар",
+              "three-link": "Давлат харидлари",
+              "four-link": "Давлат хусусий шериклик",
+              "five-link": "Тадбирлар"
+       },
+
+       "Corparate-Projects-Investment": {
+              "title": "Инвеститцион лойиҳалар",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Лойиҳалар",
+              "route4": "Инвеститцион лойиҳалар"  
+       },
+
+
+       "Corparate-Projects-Tenders": {
+              "title": "Тендерлар",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Лойиҳалар",
+              "route4": "Тендерлар",
+              "link-text": "Кўчириб олиш"
+       },
+
+       "Corparate-Projects-Purchaches": {
+              "title": "Давлат харидлари",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Лойиҳалар",
+              "route4": "Давлат харидлари",
+              "link-text": "Файлни юкланг"
+       },
+
+       "Corparate-Projects-Partnership": {
+              "title": "Давлат хусусий шериклик",
+              "route1": "Aсосий",
+              "route2": "Корпоратив бошқарув",
+              "route3": "Лойиҳалар",
+              "route4": "Давлат хусусий шериклик",
+              "link-text": "Файлни юкланг"
+       },
+
+
+       "Activity-Layout": {
+              "first-link": "Корхоналар йўналишлари",
+              "second-link": "Чора-тадбирлар",
+              "three-link": "Ҳисоботлар",
+              "four-link": "Электрон ҳукумат",
+              "five-link": "Ҳамкорлик",
+              "six-link": "Хизматлар"
+       },
+
+       "Activity-Direction": {
+              "title": "Корхоналар йўналишлари",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Корхоналар йўналишлари"
+       },
+
+       "Activity-Measures": {
+              "title": "Чора-тадбирлар",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Чора-тадбирлар",
+              "link-text": "Кўчириб олиш"     
+       },
+
+       "Activity-Government": {
+              "title": "Электрон ҳукумат",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Электрон ҳукумат",
+              "link-text": "Кўчириб олиш"     
+       },
+
+       "Activity-Reports": {
+              "title": "Ҳисоботлар",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Ҳисоботлар",
+              "link-text": "Файлни юкланг"  
+       },
+
+       "Activity-Cooperation": {
+              "title": "Ҳамкорлик",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Ҳамкорлик",
+              "phone-label": "Телефон",  
+              "internet-label": "Веб сайт",     
+              "mail-label": "Электрон манзил"  
+       },
+
+
+       "Activity-Service": {
+              "title": "Хизматлар",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Хизматлар",
+              "text-label": "Тоифаси"
+       },
+
+       "Activity-Policy-Layout": {
+              "first-link": "Ёшларга оид янгиликлар",
+              "second-link": "Ёшларга оид меъёрий ҳужжатлар"
+       },
+
+       "Activity-Policy-News": {
+              "title": "Ёшларга оид янгиликлар",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Ёшлар сиёсати",
+              "route4": "Ёшларга оид янгиликлар"
+       },
+
+       "Activity-Policy-Documents": {
+              "title": "Ёшларга оид меъёрий ҳужжатлар",
+              "route1": "Aсосий",
+              "route2": "Фаолият",
+              "route3": "Ёшлар сиёсати",
+              "route4": "Ёшларга оид меъёрий ҳужжатлар",
+              "link-text": "Кўчириб олиш"     
+       },
+
+       "About-Layout": {
+              "link1": "Биз ҳақимизда",
+              "link2": "Раҳбарият",
+              "link3": "Тузилма",
+              "link4": "Бўлим ва хизматлар",
+              "link5": "Таркибий корхоналар",
+              "link6": "Mеъёрий ҳужжатлар",
+              "link7": "Ўз кучини ёқотган норматив-ҳуқуқий ҳужжатлар",
+              "link8": "Бўш иш ўринлари",
+              "link9": "Тез-тез сўраладиган саволлар",
+              "link10": "Жамият – рақамлаштириш",
+              "link11": "Жамият касаба уюшмаси",
+              "link12": "Веб-сайтдан фойдаланиш бўйича қўлланма ва терминларнинг мазмуни"
+       },
+
+       "About-Regulatory-Documents": {
+              "title": "Mеъёрий ҳужжатлар",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Mеъёрий ҳужжатлар",
+              "link-text": "Кўчириб олиш"  
+       },
+
+       "About-Regulatory-Leadership": {
+              "title": "Раҳбарият",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Раҳбарият",
+              "position1": "Телефон",
+              "position2": "Факс",
+              "position3": "Электрон манзил",
+              "position4": "Қабул кунлари",
+              "btn1": "Таржимаи ҳол",
+              "btn2": "Мажбурияти"
+       },
+
+       "About-Us-About-us": {
+              "title": "Биз ҳақимизда",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "bus-heading": "Моделлари тарихи",
+              "link-title": "Барча моделлар"
+       },
+
+       "About-Us-Department": {
+              "title": "Бўлим ва хизматлар",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Бўлим ва хизматлар",
+              "btn": "Батафсил",
+              "position1": "Телефон",
+              "position3": "Электрон манзил"
+       },
+
+       "About-Us-Community": {
+              "title": "Жамият касаба уюшмаси",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Жамият касаба уюшмаси",
+              "btn": "Батафсил",
+              "position1": "Телефон",
+              "position3": "Электрон манзил"
+       },
+
+       "About-Us-FAQ": {
+              "title": "Тез-тез сўраладиган саволлар",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Тез-тез сўраладиган саволлар"
+       },
+       
+       "About-Us-Society": {
+              "title": "Жамият – рақамлаштириш",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Жамият – рақамлаштириш"
+       },
+
+       "About-Us-Structural-Enterprises": {
+              "title": "Таркибий корхоналар",
+              "text": "«Тошшахартрансхизмат» AЖ таркибига кирувчи Давлат корхоналари тўғрисида маълумот",
+              "route1": "Aсосий",
+              "route2": "Биз ҳақимизда",
+              "route3": "Таркибий корхоналар",
+              "label1": "Раҳбар",
+              "label2": "Манзил",
+              "label3": "Телефон"
+       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+       "Footers": {
+              "top-center": "Ўзбекистон Республикаси, 100000, Тошкент шаҳри, Амир Темур 1-тор кўчаси, 6 уй",
+              "top-right": "Янгиликларимизга обуна бўлинг",
+              "center-left-top": "Веб-сайтдан олинган маълумотлар чоп этилганда веб-сайтга ҳавола қилиш мажбурий",
+              "center-left-bottom": "Сайтдаги барча материаллардан қуйидаги лицензия бўйича фойдаланиш мумкин: Creative Commons Attribution 4.0 International",
+              "center-right": "Матнда хато топсангиз, уни танланг ва веб-сайт маъмуриятини хабардор қилиш учун “Ctrl + Enter” тугмасини босинг",
+              "bottom-right": "томонидан ишлаб чиқилган"
+       },
+       "Header": {
+              "first-title": "Биз ҳақимизда",
+              "first-section-one": "Биз ҳақимизда",
+              "first-section-one-path": "/id/modules/about/aboutus",
+              "first-section-two": "Раҳбарият",
+              "first-section-three": "Тузилма",
+              "first-section-five": "Бўлим ва хизматлар",
+              "first-section-six": "Таркибий корхоналар",
+              "first-section-seven": "Mеъёрий ҳужжатлар",
+              "first-section-eight-eight": "Ўз кучини ёқотган норматив-ҳуқуқий ҳужжатлар",
+              "first-section-eight": "Бўш иш ўринлари",
+              "first-section-nine": "Тез-тез сўраладиган саволлар",
+              "first-section-ten": "Жамият – рақамлаштириш",
+              "first-section-eleven": "Жамият касаба уюшмаси",
+              "first-section-eleven-eleven": "Веб-сайтдан фойдаланиш бўйича қўлланма ва терминларнинг мазмуни",
+
+              "second-title": "Фаолият",
+              "second-section-one": "Корхоналар йўналишлари",
+              "second-section-two": "Чора-тадбирлар",
+              "second-section-three": "Ҳисоботлар",
+              "second-section-four": "Электрон ҳукумат",
+              "second-section-five": "Ҳамкорлик",
+              "second-section-six": "Хизматлар",
+              "second-section-seven-title": "Ёшлар сиёсати",
+              "second-section-seven-one-text": "Ёшларга оид янгиликлар",
+              "second-section-seven-two-text": "Ёшларга оид меъёрий ҳужжатлар",
+              
+              "three-title": "Корпоратив бошқарув",
+              "three-section-one-title": "Бошқарув назорати органи",
+              "three-section-one-text-one": "Кузатув кенгаши",
+              "three-section-one-text-two": "Ижро органи",
+              "three-section-one-text-three": "Тафтиш комиссияси",
+              "three-section-one-text-four": "Ички аудит хизмати",
+              "three-section-one-text-five": "Кузатув кенгаши аъзоларини мукофотлаш",
+
+              "three-section-two-title": "Маълумотларни ошкор этиш",
+              "three-section-two-text-one": "Қимматбаҳо қоғозлар чиқариш",
+              "three-section-two-text-two": "Муҳим фактлар",
+              "three-section-two-text-three": "Бухгалтерия ҳисобининг миллий стандартлари",
+              "three-section-two-text-four": "Молиявий ҳисоботнинг халқаро стандартлари",
+              "three-section-two-text-five": "Аудит хулосаси",
+              "three-section-two-text-six": "Эмитент ҳисоботлари",
+
+              "three-section-three-title": "Жамиятнинг ички ҳужжатлари",
+
+              "three-section-four-title": "Акциядорларга",
+              "three-section-four-text-one": "Устав фонди",
+              "three-section-four-text-two": "Афилланган шахслар",
+              "three-section-four-text-three": "Акциядорлар рўйхати",
+              "three-section-four-text-four": "Резидент бўлмаган акциядорларга",
+              "three-section-four-text-five": "Дивидендлар",
+
+              "three-section-five-title": "Лойиҳалар",
+              "three-section-five-text-one": "Инвеститцион лойиҳалар",
+              "three-section-five-text-two": "Тендерлар",
+              "three-section-five-text-three": "Давлат харидлари",
+              "three-section-five-text-four": "Давлат хусусий шериклик",
+              "three-section-five-text-five": "Тадбирлар",
+
+              "three-section-six-title": "КБТ баҳолаш натижалари",
+
+              "three-section-seven-title": "Самарадорликнинг муҳим кўрсаткичлари",
+
+              "three-section-eight-title": "Бизнес режа",
+
+              "four-title": "Матбуот маркази",
+              "four-section-one": "Янгиликлар",
+              "four-section-two": "Медиа-тадбир",
+              "four-section-three": "Фотогалерея",
+              "four-section-four": "Видеогалерея",
+              "four-section-five": "Матбуот хизмати билан боғланиш",
+
+              "five-title": "Комплаенс назорати",
+
+              "six-title": "Очиқ маълумотлар",
+
+              "seven-title": "Алоқа",
+              "seven-section-one": "Девонхона",
+              "seven-section-two": "Халқаро ҳамкорлик",
+              "seven-section-three": "Ишонч телефони",
+              "seven-section-four": "Қайта алоқа",
+              "seven-section-five": "Фуқаролар мурожаати",
+              "seven-section-six": "Фуқаролар мурожаатлари статистикаси"
+       } 
+}

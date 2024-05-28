@@ -1,0 +1,123 @@
+.site_interactive {
+       display: flex;
+       flex-direction: column;
+       align-items: flex-start;
+       padding: 70px 0;
+}
+
+.interactive_list {
+       display: flex;
+       align-items: center;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+       max-width: 1224px;
+       width: 100%;
+}
+
+.interactive_item {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       max-width: 392px;
+       width: 100%;
+       border-radius: 16px;
+       cursor: pointer;
+}
+
+.interactive_item:not(:last-child) {
+       margin-right: 24px;
+}
+
+.interactive_first_item {
+       background-color: #FFEDAE;
+}
+
+.interactive_second_item {
+       background-color: #E1D2FF;
+}
+
+.interactive_three_item {
+       background-color: #AEFFCA;
+}
+
+.interactive_list_links {
+       padding: 24px 36px 36px;
+       max-width: 392px;
+       width: 100%;
+       text-decoration: none;
+       border-radius: 16px;
+}
+
+.interactive_list_heading {
+       margin: 0;
+       margin-top: 36px;
+       max-width: 252px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 24px;
+}
+
+.interactive_list_heading_first {
+       color: #947C00;
+}
+
+.interactive_list_heading_second {
+       color: #320097;
+}
+
+.interactive_list_heading_three {
+       color: #006D26;
+}
+
+@media only screen and (max-width: 1060px) {
+       .interactive_list {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+       }
+
+       .interactive_item {
+              max-width: 1060px;
+              width: 100%;
+       }
+       
+
+       .interactive_item:not(:last-child) {
+              margin-right: 0px;
+              margin-bottom: 24px;
+       }
+
+       .interactive_list_links {
+              display: flex;
+              align-items: center;
+              max-width: 1060px;
+              width: 100%;
+       }
+
+       .interactive_list_heading {
+              margin-top: 0px;
+              margin-left: 25px;
+       }
+}
+
+@media only screen and (max-width: 425px) {
+       .interactive_list_links {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              max-width: 1060px;
+              width: 100%;
+       }
+
+       .interactive_list_heading {
+              margin-top: 20px;
+              margin-left: 0px;
+       }
+}
+
+@media only screen and (max-width: 300px) {
+       .interactive_list_links {
+              padding: 20px 12px;
+       }
+}

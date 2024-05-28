@@ -1,0 +1,99 @@
+.public_trans_heading {
+       margin: 0;
+       margin-bottom: 24px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.public_trans_list {
+       display: grid;
+       grid-template-columns: auto auto;
+       row-gap: 24px;
+       column-gap: 24px;
+       flex-wrap: wrap;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+.public_trans_items {
+       padding: 28px 0;
+       background-color: #F3F3F3;
+       border-radius: 8px;
+       cursor: pointer;
+}
+
+.public_trans_items:hover .public_trans_btn {
+       color: rgb(0, 0, 188);
+}
+
+
+.public_trans_items:hover .public_trans_item_img {
+       transform: scale(1.05);
+}
+
+.public_trans_link {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       position: relative;
+       text-decoration: none;
+       color: #000;
+}
+
+.public_trans_item_title {
+       margin-bottom: 20px;
+       font-family: 'Montserrat';
+       font-weight: 600;
+       font-size: 24px;
+}
+
+.public_trans_img_sec {
+       position: relative;
+       margin-bottom: 16px;
+       max-width: 420px;
+       max-height: 240px;
+       width: 100%;
+       height: 100%;
+}
+
+.public_trans_item_img {
+       position: absolute;
+       width: 420px;
+       height: 240px;
+       border-radius: 8px;
+       object-fit: cover;
+       transition: .3s ease;
+       border-radius: 10px;
+}
+
+
+.public_trans_btn {
+       margin-top: 250px;
+       border: none;
+       background-color: transparent;
+       font-family: 'Montserrat';
+       font-weight: 500;
+       font-size: 16px;
+       cursor: pointer;
+}
+
+.public_trans_inner_img {
+       margin-left: 4px;
+}
+
+
+@media only screen and (max-width: 950px) {
+       .public_trans_list {
+              display: grid;
+              grid-template-columns: auto;
+              row-gap: 24px;
+              column-gap: 24px;
+              flex-wrap: wrap;
+              margin: 0;
+              padding: 0;
+              list-style: none;
+       }
+}
+

@@ -1,0 +1,85 @@
+.site_direction {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 0px 20px 50px;
+}
+
+.direction_heading {
+       margin: 24px 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.direction_list {
+       display: grid;
+       grid-template-columns: auto auto auto auto;
+       gap: 20px;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+
+.direction_item {
+       padding: 24px;
+       cursor: pointer;
+       background-color: #F3F3F3;
+       border-radius: 8px;
+}
+
+.direction_item:hover {
+       background-color: #0065C1;
+       transition: all 300ms ease;
+}
+
+.direction_item:hover .direction_item_text {
+       color: #FFF;
+       transition: all 300ms ease;
+}
+
+.direction_item_link {
+       text-decoration: none;
+}
+
+.direction_item_text {
+       padding: 0;
+       color: #000000;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+
+@media only screen and (max-width: 900px) {
+.direction_list {
+       display: grid;
+       grid-template-columns: auto auto auto;
+       gap: 20px;
+       margin: 0;
+       padding: 0;
+       list-style: none;
+}
+}
+
+@media only screen and (max-width: 700px) {
+       .direction_list {
+              display: grid;
+              grid-template-columns: auto auto;
+              gap: 20px;
+              margin: 0;
+              padding: 0;
+              list-style: none;
+       }
+}
+
+@media only screen and (max-width: 500px) {
+       .direction_list {
+              display: grid;
+              grid-template-columns: auto;
+              gap: 20px;
+              margin: 0;
+              padding: 0;
+              list-style: none;
+       }
+}

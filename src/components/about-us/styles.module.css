@@ -1,0 +1,45 @@
+.about_us_section {
+       box-sizing: border-box;
+       padding: 156px 104px;
+       background: url('https://tashbus.uz/media/Rectangle_16.jpg');
+       background-repeat: no-repeat;
+       background-size: cover;
+
+       border-radius: 16px;
+       height: 600px;
+}
+
+.about_us_section_second {
+       box-sizing: border-box;
+       padding: 156px 104px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: 100% 0%;
+       background: url('https://tashbus.uz/media/cccccccccccccccdwwaa222.jpg');
+       border-radius: 16px;
+       height: 600px;
+}
+
+.about_us_title {
+       margin: 0;
+       margin-bottom: 32px;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: 700;
+       font-size: 36px;
+       max-width: 555px;
+       width: 100%;
+       color: #FFFFFF;
+}
+
+.about_us_btn {
+       padding: 16px 49px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+       border-radius: 24px;
+       border: none;
+       color: #FFFFFF;
+       background-color: #0065C1;
+       cursor: pointer;
+       text-decoration: none;
+}

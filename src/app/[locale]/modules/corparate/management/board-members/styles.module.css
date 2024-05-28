@@ -1,0 +1,37 @@
+.board_members {
+    display: flex;
+    flex-direction: column;
+    max-width: 912px;
+    width: 100%;
+}
+
+.board_members_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.board_members_img {
+    width: 100%;
+}
+
+.board_members_link_section {
+    display: flex;
+    align-items: flex-start;
+    text-decoration: none;
+    color: #0065C1;
+}
+
+.board_members_link_text {
+    margin: 0;
+    margin-left: 4px;
+}
+
+.board_members_title {
+    margin: 0;
+    margin-top: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}

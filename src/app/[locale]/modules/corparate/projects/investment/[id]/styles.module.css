@@ -1,0 +1,60 @@
+.detail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 912px;
+    width: 100%;
+}
+
+.dateail_heading {
+    margin: 24px 0;
+}
+
+.detail_section {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    max-width: 900px;
+    width: 100%;
+}
+
+.detail_section_inner {
+    display: flex;
+    align-items: center;
+}
+
+.investment_item_date_sec {
+    display: flex;
+    align-items: center;
+}
+
+.investment_item_date {
+    margin: 0;
+    margin-left: 8px;
+}
+
+.detail_view_section {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.detail_view_text {
+    margin: 0;
+    margin-left: 4px;
+}
+
+.detail_sotiol {
+    display: flex;
+    align-items: center;
+}
+
+.detail_share_icon {
+    margin-right: 20px;
+}
+
+.detail_body_text p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}

@@ -1,0 +1,226 @@
+.busbuy_section {
+       display: flex;
+       flex-direction: column;
+}
+
+.busbuy_heading {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.busbuy_list {
+       margin: 0;
+       margin-top: 64px;
+       padding: 0;
+       list-style: none;
+}
+
+.buybus_item:not(:last-child) {
+       margin-bottom: 64px;
+}
+
+.buybus_bus_name {
+       margin: 0;
+       margin-bottom: 16px;
+       font-family: 'Inter', sans-serif;
+       font-weight: 600;
+       font-size: 24px;
+}
+
+.buybus_item_section {
+       display: flex;
+       align-items: flex-start;
+       justify-content: space-between;
+}
+
+.buybus_btn_img_section {
+       display: flex;
+       flex-direction: column;
+}
+
+.buybus_btn_img {
+       width: 80px;
+       height: 80px;
+       border: none;
+       background-color: transparent;
+       cursor: pointer;
+}
+
+.buybus_info_section {
+       display: flex;
+       flex-direction: column;
+       margin-left: 24px;
+       max-width: 185px;
+       width: 100%;
+}
+
+.buybus_info_first {
+       display: flex;
+       flex-direction: column;
+       margin-bottom: 16px;
+       padding: 16px 16px 33px;
+       background-color: #F3EDFF;
+       border-radius: 8px;
+}
+
+.buybus_info_people {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 36px;
+       color: #A97DFF;
+}
+
+.buybus_info_people_text {
+       margin: 0;
+       margin-top: 16px;
+       color: #A97DFF;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+.buybus_info_second {
+       display: flex;
+       flex-direction: column;
+       padding: 16px 16px 33px;
+       background-color: #FFF1E0;
+       border-radius: 8px;
+}
+
+.buybus_info_price {
+       margin: 0;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 36px;
+       color: #FFA63D;
+}
+
+.buybus_info_price_text {
+       margin: 0;
+       margin-top: 16px;
+       color: #FFA63D;
+       font-family: 'Inter', sans-serif;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+.buybus_image {
+       max-width: 80px;
+       max-height: 80px;
+       border-radius: 8px;
+       cursor: pointer;
+}
+
+.buybus_center_img {
+       margin-left: 24px;
+       border-radius: 8px;
+       /* max-width: 600px; */
+       width: 100%;
+       max-height: 368px;
+       cursor: pointer;
+}
+
+@media only screen and (max-width: 1150px) {
+       .buybus_btn_img_section {
+              max-height: 80px;
+       }
+
+       .buybus_item_section {
+              display: flex;
+              flex-direction: column;
+              /* max-width: 600px; */
+              width: 100%;
+       }
+
+       .buybus_btn_img {
+              padding: 0;
+              /* max-width: 600px; */
+              width: 100%;
+       }
+
+       .buybus_image {
+              max-width: 600px;
+              max-height: 18px;
+              border-radius: 8px;
+              cursor: pointer;
+       }
+
+       .buybus_center_img {
+              margin-left: 0px;
+              width: 100%;
+       }
+
+       .buybus_info_section {
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              margin-left: 0px;
+              margin-top: 24px;
+              max-width: 600px;
+              width: 100%;
+       }
+
+       .buybus_info_first { 
+              margin-bottom: 0px;
+              width: 100%;
+       }
+
+       .buybus_info_second {
+              margin-left: 20px;
+              width: 100%;
+       }
+}
+
+
+@media only screen and (max-width: 640px) {
+       .buybus_btn_img_section {
+              max-height: 80px;
+              width: 100%;
+       }
+
+       
+       .buybus_item_section {
+              width: 100%;
+       }
+
+       .buybus_btn_img {
+              width: 100%;
+       }
+
+       .buybus_image {
+              width: 100%;
+       }
+
+       .buybus_center_img {
+              width: 100%;
+       }
+
+       .buybus_info_section {
+              width: 100%;
+       }
+
+       .buybus_info_first {
+              width: 100%;
+       }
+
+       .buybus_info_second {
+              width: 100%;
+       }
+}
+
+
+@media only screen and (max-width: 665px) {
+       .buybus_info_section {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+       }
+
+       .buybus_info_second {
+              margin-left: 0;
+              margin-top: 10px;
+       }
+}

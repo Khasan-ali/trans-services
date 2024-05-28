@@ -1,0 +1,828 @@
+{
+       "Landing-page-Interactive-Service": {
+              "title": "Интерактивные услуги",
+              "first-item-heading": "Забронировать автобус",
+              "second-item-heading": "Онлайн-маршрутизация",
+              "three-item-heading": "Продажа транспортной карты"
+       },
+
+       "Landing-page-Datas": {
+              "title": "Информации",
+              "first-item-title": "Список автобусных маршрутов",
+              "second-item-title": "Транспортные карты",
+              "three-item-title": "Пункты продажи единых транспортных карт",
+              "four-item-title": "Открытые данные",
+              "five-item-title": "Стоимость проезда",
+              "six-item-title": "Бесплатный проезд"
+       },
+
+       "Landing-About-Us": {
+              "title": "ОФИЦИАЛЬНЫЙ САЙТ АО «ТОШШАХАРТРАНСХИЗМАТ»",
+              "title-btn": "Подробно"
+       },
+
+       "About-Us-Structure": {
+              "title": "Структура"
+       },
+
+       "About-Us-Regulatory": {
+              "title": "Нормативные документы"
+       },
+       "About-Us-Legal": {
+              "title": "Юридические документы, утратившие силу."
+       },
+       "About-Us-Vacancies": {
+              "title": "Вакансии"
+       },
+
+       "About-Us-Website": {
+              "title": "Руководство пользователя веб-сайта и условия использования"
+       },
+
+
+       "InnerTitte": {
+              "title": "О странице",
+              "btn-title": "Назад"
+       },
+       "ServiceTitte": {
+              "title": "Услуги",
+              "btn-title": "Назад"
+       },
+       "Hero": {
+              "title": "“ОФИЦИАЛЬНЫЙ САЙТ АО «ТОШШАХАРТРАНСХИЗМАТ»",
+              "btn-title": "Подробно"
+       },
+       "IndexPage": {
+              "title": "next-intl xush kelibsiz",
+              "description": "Next.js xalqarolashtirish (i18n) misoliga xush kelibsiz"
+       },
+       "NotFoundPage": {
+              "title": "Page topilmadi",
+              "description": "Voy! Siz shunday sahifaga qoqilib qolganga o'xshaysiz"
+       },
+       "Navigation": {
+              "home": "Uy"
+       },
+
+
+
+       "Bus-Card-Sale": {
+              "title": "Продажа транспортной карты",
+              "list-days": "дней",
+              "list-soum": "сум"
+       },
+
+
+
+       "Bus-Layouts": {
+              "link-title-first": "Забронировать автобус",
+              "link-title-second": "Онлайн-маршрутизация",
+              "link-title-three": "Продажа транспортной карты"
+       },
+
+       "Bus-Online-Routes": {
+              "title": "Онлайн-маршрутизация",
+              "form-title": "Выберите удобный для вас маршрут",
+              "form-first-select": "отсюда",
+              "form-second-select": "куда",
+              "form-btn-title": "Проложить маршрут"
+       },
+
+       "Bus-Buying-Bus": {
+              "title": "Забронировать автобус",
+              "numbers-title": "Количество людей, которые могут вместить автобус",
+              "price-title": "Размер почасовой платы за обслуживание (Сум)"
+       },
+
+       "Landing-Useful-Links": {
+              "title": "Полезные ссылки"
+       },
+
+       "Landing-Statistics": {
+              "title": "Статистика",
+              "text-thousand": "ТЫС +",
+              "text-million": "МЛН+"
+       },
+
+       "Datas-Fare": {
+              "title": "Стоимость проезда"
+       },
+
+       "Single-Transport-Cards": {
+              "title": "Пункты продажи единых транспортных карт"
+       },
+
+       "Bus-Routes": {
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Маршруты предприятий",
+              "direction": "Направление",
+              "route-name": "Название маршрута",
+              "move-time": "Время движения",
+              "route-duration": "Продолжительность маршрута",
+              "route-length": "Длина маршрута",
+              "markami-bus": "Марка автобуса",
+              "park": "Автопарк"
+       },
+
+       "Landing-Public-Trans": {
+              "title": "История общественного транспорта"
+       },
+
+       "Public-Trans_Id": {
+              "title": "История моделей",
+              "btn-title": "Подробно"
+       },
+
+       "Trans-Detail": {
+              "open-year": "Год выпуска",
+              "people-size": "Человек может соответствовать",
+              "chairs": "Количество мест",
+              "description": "Количество направлений"
+       },
+
+       "Landing-News": {
+              "title": "Новости",
+              "link-title": "Все новости"
+       },
+
+       "Press-center-Layout": {
+              "first-link": "Новости",
+              "second-link": "Медиа-мероприятие",
+              "three-link": "Фотогалерея",
+              "four-link": "Видеогалерея",
+              "five-link": "Связаться с пресс-службой"
+       },
+
+       "Contacts-Layout": {
+              "first-link": "Канцелярия",
+              "second-link": "Международное сотрудничество",
+              "three-link": "Телефон доверия",
+              "four-link": "Обратная связь",
+              "five-link": "Обращение граждан",
+              "six-link": "Статистика обращений граждан"
+       },
+
+       "Press-Center-News": {
+              "title": "Новости"
+       },
+
+       "News-Media": {
+              "title": "Медиа-мероприятие"
+       },
+
+       "News-Media-Detail": {
+              "title": "Фотогалерея"
+       },
+
+       "New-Video-Page": {
+              "title": "Видеогалерея",
+              "route1": "Главный",
+              "route2": "Пресс-центр",
+              "route3": "Видеогалерея"
+       },
+
+       "New-Press-Service": {
+              "title": "Связаться с пресс-службой",
+              "route1": "Главный",
+              "route2": "Пресс-центр",
+              "route3": "Связаться с пресс-службой",
+              "email-title": "Электрон почта",
+              "phone-title": "Телефон"
+       },
+
+       "Information-Form": {
+              "form-title": "Обратная связь",
+              "input-first": "Ф.И.О",
+              "input-second": "Телефон",
+              "input-three": "Краткая информация",
+              "form-btn": "Отправка"
+       },
+
+       "Compleans-Control": {
+              "title": "Комплаенс-контроль",
+              "route1": "Главный",
+              "route2": "Комплаенс-контроль"
+       },
+       
+       "Contacts-Feedback": {
+              "title": "Обратная связь",
+              "route1": "Главный",
+              "route2": "Контакты",
+              "route3": "Обратная связь"
+       },
+
+       
+       "Contact-Office": {
+              "title": "Канцелярия",
+              "route1": "Главный",
+              "route2": "Контакты",
+              "route3": "Канцелярия",
+              "phone": "Телефон",
+              "first-email": "Электрон почта",
+              "second-email": "Exat адрес",
+              "address": "Адрес",
+              "work-time": "Рабочее время",
+              "networking": "Социальные сети"
+       },
+
+
+       "Contact-Cooperation": {
+              "title": "Международное сотрудничество",
+              "route1": "Главный",
+              "route2": "Контакты",
+              "route3": "Международное сотрудничество",
+              "phone": "Телефон",
+              "email": "лектрон почта",    
+              "address": "Адрес",
+              "work-time": "Рабочее время",
+              "networking": "Социальные сети"
+       },
+
+       "Contact-Hotline": {
+              "title": "Телефон доверия",
+              "route1": "Главный",
+              "route2": "Контакты",
+              "route3": "Телефон доверия",
+              "text": "График  работы: обращения, жалобы и предложения по всем видам городского пассажирского транспорта г.Ташкента принимаются и регистрируются с понедельника по пятницу, с 8:00 до 17:00.",
+              "details": "Подробно",
+              "link-title": "Внутренние документы Общества",
+              "phone-text": "Телефон доверия",
+              "phone-text-second": "Короткий номер"
+       },
+
+       "Contact-Appeal": {
+              "title": "Обращение граждан",
+              "route1": "Главный",
+              "route2": "Контакты",
+              "route3": "Обращение граждан",
+              "btn-first": "Отправить обращение",
+              "btn-second": "Проверить статус заявки",
+              "name-placeholder": "Ф.И.О",
+              "phone-placeholder": "Телефон",
+              "email-placeholder": "Электрон почта",
+              "address-placeholder": "Адрес",
+              "text-placeholder": "Краткая информация",
+              "upload-text": "Прикрепить файл",
+              "form-btn": "Отправка"
+       },
+
+       "Controls-Application": {
+              "route1": "Главный",
+              "route2": "Проверить статус заявки",
+              "btn-first": "Отправить обращение",
+              "btn-second": "Проверить статус заявки",
+              "number-placeholder": "Номер обращения",
+              "verification-placeholder": "Код подтверждения",
+              "form-btn": "Отправка"
+       },
+
+       "Corparate-Management-Layout": {
+              "first-link": "Наблюдательный совет",
+              "second-link": "Исполнительный орган",
+              "three-link": "Ревизионная комиссия",
+              "four-link": "Служба внутреннего аудита",
+              "five-link": "Вознаграждение членов Наблюдательного совета"
+       },
+
+       "Corparate-Management-Supervisory": {
+              "title": "Наблюдательный совет",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Орган управленческого контроля",
+              "route4": "Наблюдательный совет"
+       },
+
+       "Corparate-Management-Executive": {
+              "title": "Исполнительный орган",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Орган управленческого контроля",
+              "route4": "Исполнительный орган"
+       },
+
+       "Corparate-Management-Inspection": {
+              "title": "Ревизионная комиссия",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Орган управленческого контроля",
+              "route4": "Ревизионная комиссия"
+       },
+
+       "Corparate-Management-Audit-Service": {
+              "title": "Служба внутреннего аудита",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Орган управленческого контроля",
+              "route4": "Служба внутреннего аудита"
+       },
+
+       "Corparate-Management-Board-members": {
+              "title": "Вознаграждение членов Наблюдательного совета",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Орган управленческого контроля",
+              "route4": "Вознаграждение членов Наблюдательного совета",
+              "download-title": "Загрузить файл"
+       },
+
+       "Corparate-Disclosure-Layout": {
+              "first-link": "Выпуск ценных бумаг",
+              "second-link": "Важные факты",
+              "three-link": "Национальные стандарты бухгалтерского учета",
+              "four-link": "Международные стандарты финансовой отчетности",
+              "five-link": "Аудиторское заключение",
+              "six-link": "Отчеты эмитента"
+       },
+
+       "Corparate-Disclosure-Securities": {
+              "title": "Выпуск ценных бумаг",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Выпуск ценных бумаг",
+              "link-text": "Загрузить файл"
+       },
+
+
+       "Corparate-Disclosure-Facts": {
+              "title": "Важные факты",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Важные факты",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Disclosure-National-Accounting": {
+              "title": "Национальные стандарты бухгалтерского учета",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Национальные стандарты бухгалтерского учета",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Disclosure-Financial-Reporting": {
+              "title": "Международные стандарты финансовой отчетности",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Международные стандарты финансовой отчетности",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Disclosure-Audit-Summary": {
+              "title": "Аудиторское заключение",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Аудиторское заключение",
+              "link-text": "Скачать"
+       },
+
+
+       "Corparate-Disclosure-Issuer-Reports": {
+              "title": "Отчеты эмитента",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Раскрытие информации",
+              "route4": "Отчеты эмитента",
+              "link-text": "Скачать"
+       },
+
+
+       "Corparate-Layout": {
+              "first-link": "Внутренние документы Общества",
+              "second-link": "Существенные показатели производительности",
+              "three-link": "Ключевые показатели эффективности",
+              "four-link": "Бизнес план"
+       },
+
+       "Corparate-Internal-Documents": {
+              "title": "Внутренние документы Общества",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Внутренние документы Общества",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Assesment": {
+              "title": "Существенные показатели производительности",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Существенные показатели производительности",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Performance": {
+              "title": "Ключевые показатели эффективности",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Ключевые показатели эффективности",
+              "link-text": "Скачать"
+       },
+
+
+       "Corparate-Bussiness-Plan": {
+              "title": "Бизнес план",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Бизнес план",
+              "link-text": "Скачать"
+       },
+
+       "Corparate-Shareholder-Layout": {
+              "first-link": "Уставный фонд",
+              "second-link": "Аффилированные лица",
+              "three-link": "Список акционеров",
+              "four-link": "Акционерам-нерезидентам",
+              "five-link": "Дивиденды"
+       },
+
+       "Corparate-shareholders-Fund": {
+              "title": "Уставный фонд",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Акционерам",
+              "route4": "Уставный фонд", 
+              "link-text": "Загрузить файл"
+       },
+
+       "Corparate-shareholders-Affili": {
+              "title": "Аффилированные лица",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Акционерам",
+              "route4": "Аффилированные лица", 
+              "link-text": "Скачать" 
+       },
+
+       "Corparate-shareholders-holder": {
+              "title": "Список акционеров",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Акционерам",
+              "route4": "Список акционеров", 
+              "link-text": "«Поручение Депо на перевод ценных бумаг» подписали Минфин и Минтранс. С 11.11.2022 г. 100% пакета акций АО «Тошшахартрансхизмат» передано Министерству транспорта Республики Узбекистан." 
+       },
+
+
+       "Corparate-shareholders-Resident": {
+              "title": "Акционерам-нерезидентам",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Акционерам",
+              "route4": "Акционерам-нерезидентам"
+       },
+
+       "Corparate-shareholders-Dividend": {
+              "title": "Дивиденды",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Акционерам",
+              "route4": "Дивиденды", 
+              "link-text": "Скачать" 
+       },
+
+       "Corparate-Projects-Layout": {
+              "first-link": "Инвестиционные проекты",
+              "second-link": "Тендеры",
+              "three-link": "Государственные закупки",
+              "four-link": "Государственно-частное партнерство",
+              "five-link": "Мероприятия"
+       },
+
+       "Corparate-Projects-Investment": {
+              "title": "Инвестиционные проекты",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Проекты",
+              "route4": "Инвестиционные проекты"  
+       },
+
+       "Corparate-Projects-Tenders": {
+              "title": "Тендеры",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Проекты",
+              "route4": "Тендеры",
+              "link-text": "Скачать" 
+       },
+
+       "Corparate-Projects-Purchaches": {
+              "title": "Государственные закупки",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Проекты",
+              "route4": "Государственные закупки",
+              "link-text": "Загрузить файл"
+       },
+
+       "Corparate-Projects-Partnership": {
+              "title": "Государственно-частное партнерство",
+              "route1": "Главный",
+              "route2": "Корпоративное управление",
+              "route3": "Проекты",
+              "route4": "Государственно-частное партнерство",
+              "link-text": "Загрузить файл"
+       },
+
+       "Activity-Layout": {
+              "first-link": "Маршруты предприятий",
+              "second-link": "План мероприятий",
+              "three-link": "Отчеты",
+              "four-link": "Электронное правительство",
+              "five-link": "Сотрудничество",
+              "six-link": "Услуги"
+       },
+
+       "Activity-Direction": {
+              "title": "Маршруты предприятий",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Маршруты предприятий"
+       },
+
+       "Activity-Measures": {
+              "title": "План мероприятий",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "План мероприятий",
+              "link-text": "Скачать"     
+       },
+
+       "Activity-Government": {
+              "title": "Электронное правительство",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Электронное правительство",
+              "link-text": "Скачать"     
+       },
+
+       "Activity-Reports": {
+              "title": "Отчеты",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Отчеты",
+              "link-text": "Загрузить файл"     
+       },
+
+
+       "Activity-Cooperation": {
+              "title": "Сотрудничество",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Сотрудничество",
+              "phone-label": "Телефон",  
+              "internet-label": "Веб-сайт",     
+              "mail-label": "Электрон почта"  
+       },
+
+       "Activity-Service": {
+              "title": "Услуги",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Услуги",
+              "text-label": "Категория"
+       },
+
+       "Activity-Policy-Layout": {
+              "first-link": "Молодежные новости",
+              "second-link": "Нормативные документы по молодежи"
+       },
+
+       "Activity-Policy-News": {
+              "title": "Молодежные новости",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Молодежная политика",
+              "route4": "Молодежные новости"
+       },
+
+       "Activity-Policy-Documents": {
+              "title": "Нормативные документы по молодежи",
+              "route1": "Главный",
+              "route2": "Деятельность",
+              "route3": "Молодежная политика",
+              "route4": "Нормативные документы по молодежи",
+              "link-text": "Скачать"     
+       },
+
+       "About-Layout": {
+              "link1": "O нас",
+              "link2": "Руководство",
+              "link3": "Структура",
+              "link4": "Отдел и услуги",
+              "link5": "Подведомственные предприятия",
+              "link6": "Нормативные документы",
+              "link7": "Юридические документы, утратившие силу.",
+              "link8": "Вакансии",
+              "link9": "Часто задаваемые вопросы",
+              "link10": "Цифровой – Общества",
+              "link11": "Профсоюз Общества",
+              "link12": "Руководство пользователя веб-сайта и условия использования"
+       },
+
+
+       "About-Regulatory-Documents": {
+              "title": "Нормативные документы",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Нормативные документы",
+              "link-text": "Скачать"  
+       },
+
+
+       "About-Regulatory-Leadership": {
+              "title": "Руководство",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Руководство",
+              "position1": "Телефон",
+              "position2": "Факс",
+              "position3": "Электрон почта",
+              "position4": "Приемные дни",
+              "btn1": "Биография",
+              "btn2": "Обязательство"
+       },
+       
+       "About-Us-About-us": {
+              "title": "O нас",
+              "route1": "Главный",
+              "route2": "O нас",
+              "bus-heading": "История моделей",
+              "link-title": "Все модели"
+       },
+
+       "About-Us-Department": {
+              "title": "Отдел и услуги",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Отдел и услуги",
+              "btn": "Подробно",
+              "position1": "Телефон",
+              "position3": "Электрон почта"
+       },
+
+       "About-Us-Community": {
+              "title": "Профсоюз Общества",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Профсоюз Общества",
+              "btn": "Подробно",
+              "position1": "Телефон",
+              "position3": "Электрон почта"
+       },
+
+       "About-Us-FAQ": {
+              "title": "Часто задаваемые вопросы",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Часто задаваемые вопросы"
+       },
+
+       "About-Us-Society": {
+              "title": "Цифровой – Общества",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Цифровой – Общества"
+       },
+
+       "About-Us-Structural-Enterprises": {
+              "title": "Подведомственные предприятия",
+              "text": "Информация о государственных предприятиях, входящих в состав АО «Тошшахартрансхизмат»",
+              "route1": "Главный",
+              "route2": "O нас",
+              "route3": "Подведомственные предприятия",
+              "label1": "Руководитель",
+              "label2": "Адрес",
+              "label3": "Телефон"
+       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+       
+
+
+
+
+
+
+
+
+
+
+       "Footers": {
+              "top-center": "Республика Узбекистан, 100000, г.Ташкент, 1-й пр-д Амира Темура, дом 6",
+              "top-right": "Подпишитесь на наши новости",
+              "center-left-top": "Ссылка на сайт обязательна при публикации информации с сайта",
+              "center-left-bottom": "Все материалы сайта доступны на условиях следующей лицензии: Creative Commons Attribution 4.0 International",
+              "center-right": "Если Вы нашли ошибку в тексте, выделите её и нажмите “Ctrl+Enter” для уведомления администрации",
+              "bottom-right": "Разработано"
+       },
+       "Header": {
+              "first-title": "O нас",
+              "first-section-one": "O нас",
+              "first-section-one-path": "/ru/modules/about/aboutus",
+              "first-section-two": "Руководство",
+              "first-section-three": "Структура",
+              "first-section-five": "Отдел и услуги",
+              "first-section-six": "Подведомственные предприятия",
+              "first-section-seven": "Нормативные документы",
+              "first-section-eight-eight": "Юридические документы, утратившие силу.",
+              "first-section-eight": "Вакансии",
+              "first-section-nine": "Часто задаваемые вопросы",
+              "first-section-ten": "Цифровой – Общества",
+              "first-section-eleven": "Профсоюз Общества",
+              "first-section-eleven-eleven": "Руководство пользователя веб-сайта и условия использования",
+
+              "second-title": "Деятельность",
+              "second-section-one": "Маршруты предприятий",
+              "second-section-two": "План мероприятий",
+              "second-section-three": "Отчеты",
+              "second-section-four": "Электронное правительство",
+              "second-section-five": "Сотрудничество",
+              "second-section-six": "Услуги",
+              "second-section-seven-title": "Молодежная политика",
+              "second-section-seven-one-text": "Молодежные новости",
+              "second-section-seven-two-text": "Нормативные документы по молодежи",
+              
+              "three-title": "Корпоративное управление",
+              "three-section-one-title": "Орган управленческого контроля",
+              "three-section-one-text-one": "Наблюдательный совет",
+              "three-section-one-text-two": "Исполнительный орган",
+              "three-section-one-text-three": "Ревизионная комиссия",
+              "three-section-one-text-four": "Служба внутреннего аудита",
+              "three-section-one-text-five": "Вознаграждение членов Наблюдательного совета",
+
+              "three-section-two-title": "Раскрытие информации",
+              "three-section-two-text-one": "Выпуск ценных бумаг",
+              "three-section-two-text-two": "Важные факты",
+              "three-section-two-text-three": "Национальные стандарты бухгалтерского учета",
+              "three-section-two-text-four": "Международные стандарты финансовой отчетности",
+              "three-section-two-text-five": "Аудиторское заключение",
+              "three-section-two-text-six": "Отчеты эмитента",
+
+              "three-section-three-title": "Внутренние документы Общества",
+
+              "three-section-four-title": "Акционерам",
+              "three-section-four-text-one": "Уставный фонд",
+              "three-section-four-text-two": "Аффилированные лица",
+              "three-section-four-text-three": "Список акционеров",
+              "three-section-four-text-four": "Акционерам-нерезидентам",
+              "three-section-four-text-five": "Дивиденды",
+
+              "three-section-five-title": "Проекты",
+              "three-section-five-text-one": "Инвестиционные проекты",
+              "three-section-five-text-two": "Тендеры",
+              "three-section-five-text-three": "Государственные закупки",
+              "three-section-five-text-four": "Государственно-частное партнерство",
+              "three-section-five-text-five": "Мероприятия",
+
+              "three-section-six-title": "Существенные показатели производительности",
+
+              "three-section-seven-title": "Ключевые показатели эффективности",
+
+              "three-section-eight-title": "Бизнес план",
+
+              "four-title": "Пресс-центр",
+              "four-section-one": "Новости",
+              "four-section-two": "Медиа-мероприятие",
+              "four-section-three": "Фотогалерея",
+              "four-section-four": "Видеогалерея",
+              "four-section-five": "Связаться с пресс-службой",
+
+              "five-title": "Комплаенс-контроль",
+
+              "six-title": "Открытые данные",
+
+              "seven-title": "Контакты",
+              "seven-section-one": "Канцелярия",
+              "seven-section-two": "Международное сотрудничество",
+              "seven-section-three": "Телефон доверия",
+              "seven-section-four": "Обратная связь",
+              "seven-section-five": "Обращение граждан",
+              "seven-section-six": "Статистика обращений граждан"
+       }
+}

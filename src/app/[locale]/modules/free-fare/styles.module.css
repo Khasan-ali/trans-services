@@ -1,0 +1,26 @@
+.free_layouts {
+       display: flex;
+       align-items: flex-start;
+       justify-content: space-between;
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       margin-top: 20px;
+       padding: 0 20px;
+}
+
+.free_layout_list {
+       display: flex;
+       flex-direction: column;
+       margin-top: 50px;
+       margin-left: 20px;
+}
+
+.free_layout_links {
+       padding: 16px 0px;
+       text-decoration: none;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 400;
+       font-size: 16px;
+       color: #000;
+}

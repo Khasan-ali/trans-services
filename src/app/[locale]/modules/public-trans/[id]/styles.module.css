@@ -1,0 +1,137 @@
+.transid_site {
+       display: flex;
+       flex-direction: column;
+       align-items: flex-start;
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 20px 20px 40px;
+}
+
+.transid_heading {
+       margin: 0;
+       margin-bottom: 32px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 30px;
+}
+
+.transid_list {
+       display: grid;
+       grid-template-columns: auto auto;
+       row-gap: 24px;
+       column-gap: 24px;
+       margin: 0;
+       padding: 0;
+       width: 100%;
+       list-style: none;
+}
+
+.transid_item {
+       display: flex;
+       flex-direction: column;
+       align-items: flex-start;
+       max-width: 600px;
+       width: 100%;
+}
+
+.transid_year {
+       margin-bottom: 24px;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: 700;
+       font-size: 48px;
+       color: #919191;
+}
+
+.transid_link {
+       position: relative;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       padding: 24px 0;
+       height: 420px;
+       /* max-width: 620px; */
+       width: 100%;
+       text-decoration: none;
+       background-color: #F3F3F3;
+       border-radius: 8px;
+}
+
+.transid_link:hover .transid_img {
+       transform: scale(1.05);
+}
+
+.transid_link:hover .transid_btn {
+       color: rgb(0, 0, 188);
+}
+
+/* .transid_link:hover .transid_image_vector {
+       color: rgb(0, 0, 188);
+} */
+
+.transid_item_title {
+       margin: 0;
+       margin-bottom: 12px;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: 600;
+       font-size: 24px;
+       color: #000;
+}
+
+.transid_sumary {
+       margin: 0;
+       margin-bottom: 36px;
+       font-family: 'Mulish';
+       font-weight: 600;
+       font-size: 16px;
+       color: #000;
+}
+
+.transid_img_sec {
+       position: relative;
+       max-width: 420px;
+       max-height: 240px;
+       width: 100%;
+       height: 100%;
+}
+
+.transid_img {
+       position: absolute;
+       width: 420px;
+       height: 240px;
+       border-radius: 8px;
+       object-fit: cover;
+       transition: .3s ease;
+       border-radius: 10px;
+}
+
+.transid_btn {
+       margin-top: 20px;
+       border: none;
+       background-color: transparent;
+       font-family: 'Montserrat';
+       font-weight: 500;
+       font-size: 16px;
+       cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+       .transid_list {
+              display: grid;
+              grid-template-columns: auto;
+       }
+
+       .transid_item {
+              max-width: 800px;
+              width: 100%;
+       }
+}
+
+
+@media only screen and (max-width: 400px) {
+       .transid_year {
+              font-family: 'Montserrat', sans-serif;
+              font-weight: 700;
+              font-size: 36px;
+       }
+}

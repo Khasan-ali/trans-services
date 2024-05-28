@@ -1,0 +1,55 @@
+.detail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 912px;
+    width: 100%;
+}
+
+.dateail_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.detail_image {
+    max-width: 800px;
+    width: 100%;
+    border-radius: 10px;
+    max-height: 800px;
+    height: 100%;
+}
+
+.detail_link {
+    display: flex;
+    align-items: center;
+    margin: 24px 0;
+    text-decoration: none;
+}
+
+.detail_link_text {
+    margin: 0;
+    margin-left: 4px;
+    color: #0065C1;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.detail_body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 500px) {
+
+.dateail_heading {
+    margin: 24px 0;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+}

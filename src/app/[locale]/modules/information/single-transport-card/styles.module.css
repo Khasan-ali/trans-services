@@ -1,0 +1,55 @@
+.single_transport_card {
+       max-width: 1264px;
+       width: 100%;
+       margin: 0 auto;
+       padding: 24px 20px 146px;
+}
+
+.stc_heading {
+       margin: 0;
+       margin-bottom: 36px;
+       font-family: 'Mulish', sans-serif;
+       font-weight: 700;
+       font-size: 32px;
+}
+
+.stc_form {
+       display: flex;
+       flex-direction: column;
+       padding: 24px 24px 48px;
+       box-sizing: border-box;
+       max-width: 416px;
+       width: 100%;
+       background: #f3f3f3;
+       border-radius: 16px;
+       min-height: 400px;
+}
+
+.stc_label {
+       margin: 0;
+       margin-bottom: 8px;
+       font-family: "Mulish", sans-serif;
+       font-style: normal;
+       font-weight: 600;
+       font-size: 18px;
+       line-height: 140%;
+       color: #525252;
+}
+
+.stc_select {
+       padding: 16px;
+       border-radius: 8px;
+       width: 100%;
+       border: none;
+       display: -webkit-box;
+       display: -ms-flexbox;
+       display: flex;
+       -webkit-box-align: center;
+       -ms-flex-align: center;
+       align-items: center;
+       background: #fff;
+       -webkit-box-pack: justify;
+       -ms-flex-pack: justify;
+       justify-content: space-between;
+       cursor: pointer;
+}

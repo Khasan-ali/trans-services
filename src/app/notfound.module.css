@@ -1,0 +1,9 @@
+.not_found_body {
+       text-align: center;
+}
+
+.not_found_heading {
+       margin-top: 20px;
+       font-family: "Roboto", sans-serif;
+       font-weight: 600;
+}
